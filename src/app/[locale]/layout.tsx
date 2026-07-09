@@ -69,7 +69,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
           url: `${siteUrl}/images/hero.webp`,
           width: 616,
           height: 353,
-          alt: "Disney Dreamlight Valley: Honeyglow Woods",
+          alt: "Disney Dreamlight Valley Honeyglow Woods",
         },
       ],
     },

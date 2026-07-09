@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "Honeyglow Woods Guide - Disney Dreamlight Valley",
+      "description": "Complete Disney Dreamlight Valley Honeyglow Woods guide covering quests, beekeeping, Golden Honey, Pooh Sticks, new areas, characters, recipes, rewards, and tips for Winnie the Pooh, Piglet, and Eeyore.",
+      "keywords": "Disney Dreamlight Valley Honeyglow Woods, quests, beekeeping, Golden Honey, Pooh Sticks, Adventure Pack, Winnie the Pooh",
+      "ogTitle": "Honeyglow Woods Guide - Disney Dreamlight Valley",
+      "ogDescription": "Complete Disney Dreamlight Valley Honeyglow Woods guide covering quests, beekeeping, Golden Honey, Pooh Sticks, new areas, characters, recipes, rewards, and tips.",
+      "twitterTitle": "Honeyglow Woods Guide - Disney Dreamlight Valley",
+      "twitterDescription": "Complete Disney Dreamlight Valley Honeyglow Woods guide: quests, beekeeping, Golden Honey, Pooh Sticks, areas, characters, recipes, and rewards."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Articles coming soon"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
+    "badge": "Cozy Disney Life-Sim Adventure Pack",
+    "title": "Disney Dreamlight Valley Honeyglow Woods Wiki",
+    "description": "Explore Honeyglow Woods with Winnie the Pooh, Piglet, and Eeyore. Master quests, beekeeping, Golden Honey, Pooh Sticks, new areas, recipes, rewards, and cozy life-sim tips.",
+    "getFreeCodesCTA": "View Rewards",
     "playOnSteamCTA": "Play on Steam",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "Jul 8, 2026",
+        "label": "Release Date"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "4",
+        "label": "New Areas"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "3",
+        "label": "Pooh Friends"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "2,000",
+        "label": "Moonstones Included"
       }
     }
   },
@@ -785,14 +785,14 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
+    "title": "Ready to Explore Honeyglow Woods?",
+    "description": "Join the Disney Dreamlight Valley community on Discord for Honeyglow Woods guides, updates, and discussions!",
     "joinCommunity": "Join Discord",
     "joinGame": "Play on Steam"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Honeyglow Woods Wiki",
+    "description": "Your complete resource hub for Disney Dreamlight Valley: Honeyglow Woods quests, beekeeping, Golden Honey, Pooh Sticks, characters, recipes, and rewards guides.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
@@ -804,7 +804,7 @@
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 Honeyglow Woods Wiki. Not affiliated with Disney or Gameloft.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
