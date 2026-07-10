@@ -10,7 +10,16 @@
       "twitterDescription": "Complete Disney Dreamlight Valley Honeyglow Woods guide: quests, beekeeping, Golden Honey, Pooh Sticks, areas, characters, recipes, and rewards."
     }
   },
-  "nav": {},
+  "nav": {
+    "release": "Release",
+    "price": "Price",
+    "platform": "Platform",
+    "guide": "Guide",
+    "update": "Update",
+    "characters": "Characters",
+    "quests": "Quests",
+    "items": "Items"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -559,5 +568,167 @@
     "copyrightNotice": "Copyright",
     "copyright": "© 2026 Honeyglow Woods Wiki. Not affiliated with Disney or Gameloft.",
     "disclaimer": "Unofficial fan-made resource website."
+  },
+  "pages": {
+    "release": {
+      "title": "Disney Dreamlight Valley Honeyglow Woods Release",
+      "description": "Official Disney Dreamlight Valley Honeyglow Woods release date, launch times across regions, and day-one details for the Adventure Pack.",
+      "metaTitle": "Disney Dreamlight Valley Honeyglow Woods Release Date & Launch Times",
+      "metaDescription": "The Disney Dreamlight Valley Honeyglow Woods release date and launch details. Find out when the Adventure Pack went live across every platform and region.",
+      "categoryLabel": "RELEASE INFO",
+      "whatIs": "What is the Honeyglow Woods Release?",
+      "whatIsDescription": "The Disney Dreamlight Valley Honeyglow Woods release marks the launch of the game's first major Adventure Pack, bringing new story content, characters, and biomes to players worldwide on July 8, 2026.",
+      "why": "Why track the release details?",
+      "whySteps": {
+        "step1Title": "Confirmed launch date",
+        "step1Description": "Get the official Disney Dreamlight Valley Honeyglow Woods release date and launch timing so you know exactly when the Adventure Pack goes live.",
+        "step2Title": "Platform availability",
+        "step2Description": "See which platforms received the expansion at launch and when each storefront unlocked the new content.",
+        "step3Title": "Day-one content",
+        "step3Description": "Review the characters, biomes, and features that shipped with the release so you can plan your first session."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Release Articles"
+    },
+    "price": {
+      "title": "Disney Dreamlight Valley Honeyglow Woods Price",
+      "description": "Disney Dreamlight Valley Honeyglow Woods price, editions, and bundle options. Compare the Adventure Pack and decide which version is right for you.",
+      "metaTitle": "Disney Dreamlight Valley Honeyglow Woods Price & Editions Guide",
+      "metaDescription": "Find the Disney Dreamlight Valley Honeyglow Woods price across editions and bundles. Compare the Adventure Pack, base game requirements, and which version offers the best value.",
+      "categoryLabel": "PRICE & EDITIONS",
+      "whatIs": "What determines the Honeyglow Woods price?",
+      "whatIsDescription": "The Disney Dreamlight Valley Honeyglow Woods price covers the Adventure Pack add-on and the bundled Honeyglow Woods Edition, with options depending on whether you already own the base game.",
+      "why": "Why compare editions before buying?",
+      "whySteps": {
+        "step1Title": "Standalone vs bundle",
+        "step1Description": "Compare the Adventure Pack on its own against the full Honeyglow Woods Edition bundle to find the right purchase.",
+        "step2Title": "Base game requirement",
+        "step2Description": "Check whether the Adventure Pack needs the base Disney Dreamlight Valley game and how that affects the total cost.",
+        "step3Title": "Included value",
+        "step3Description": "Review bundled Moonstones and bonus items so you understand what each edition includes for the price."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Price Articles"
+    },
+    "platform": {
+      "title": "Disney Dreamlight Valley Honeyglow Woods Platforms",
+      "description": "Disney Dreamlight Valley Honeyglow Woods platform support, including Steam, Xbox, PlayStation, Nintendo Switch, and Switch 2 preorder details.",
+      "metaTitle": "Disney Dreamlight Valley Honeyglow Woods Platforms - Steam, Xbox, Switch",
+      "metaDescription": "Disney Dreamlight Valley Honeyglow Woods platform availability and preorder details for Steam, Xbox, PlayStation, and Nintendo Switch. Find your platform and start playing.",
+      "categoryLabel": "PLATFORMS",
+      "whatIs": "Which platforms support Honeyglow Woods?",
+      "whatIsDescription": "Disney Dreamlight Valley Honeyglow Woods is available across PC, Xbox, PlayStation, and Nintendo Switch, with preorder and platform-specific details for each storefront.",
+      "why": "Why check platform details first?",
+      "whySteps": {
+        "step1Title": "Pick your storefront",
+        "step1Description": "Find Disney Dreamlight Valley Honeyglow Woods on Steam, Xbox, PlayStation, or Nintendo Switch and confirm availability for your device.",
+        "step2Title": "Cross-platform play",
+        "step2Description": "Understand how saves and progress carry across platforms so you can switch devices without losing your valley.",
+        "step3Title": "Preorder bonuses",
+        "step3Description": "Review platform preorder rewards and edition differences before the Adventure Pack unlocks on your system."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Platform Articles"
+    },
+    "guide": {
+      "title": "Disney Dreamlight Valley Honeyglow Woods Guide",
+      "description": "Complete Disney Dreamlight Valley Honeyglow Woods guide with beginner tips, full walkthrough, prep checklist, and storage advice for new and returning players.",
+      "metaTitle": "Disney Dreamlight Valley Honeyglow Woods Complete Guide & Walkthrough",
+      "metaDescription": "Master Disney Dreamlight Valley Honeyglow Woods with our complete guide. Beginner walkthroughs, prep tips, storage advice, and everything you need to know before you start.",
+      "categoryLabel": "GUIDES",
+      "whatIs": "What is in the Honeyglow Woods guide?",
+      "whatIsDescription": "The Disney Dreamlight Valley Honeyglow Woods guide covers beginner walkthroughs, story progression, prep checklists, and storage tips to help you get the most out of the Adventure Pack.",
+      "why": "Why use a guide?",
+      "whySteps": {
+        "step1Title": "Beginner walkthrough",
+        "step1Description": "Follow a step-by-step Disney Dreamlight Valley Honeyglow Woods walkthrough that walks new players through the opening hours of the expansion.",
+        "step2Title": "Prep checklist",
+        "step2Description": "Use the prep checklist to ready your valley, inventory, and tools before stepping into the new biomes.",
+        "step3Title": "Storage and progression",
+        "step3Description": "Learn storage and progression tips so you can manage new materials, recipes, and quest items without running out of space."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Guides"
+    },
+    "update": {
+      "title": "Disney Dreamlight Valley Honeyglow Woods Updates",
+      "description": "Disney Dreamlight Valley Honeyglow Woods update and patch notes, including the July update, Twitch Drops, and the latest launch trailer details.",
+      "metaTitle": "Disney Dreamlight Valley Honeyglow Woods Updates & Patch Notes",
+      "metaDescription": "Stay current with Disney Dreamlight Valley Honeyglow Woods updates. Read the latest patch notes, July update changes, Twitch Drops, and launch trailer highlights.",
+      "categoryLabel": "UPDATES",
+      "whatIs": "What are the Honeyglow Woods updates?",
+      "whatIsDescription": "Disney Dreamlight Valley Honeyglow Woods updates deliver patch notes, gameplay fixes, Twitch Drops events, and new trailer content that expand and refine the Adventure Pack over time.",
+      "why": "Why follow updates?",
+      "whySteps": {
+        "step1Title": "Patch notes and fixes",
+        "step1Description": "Read the latest Disney Dreamlight Valley Honeyglow Woods patch notes to see bug fixes, balance changes, and quality-of-life improvements.",
+        "step2Title": "Twitch Drops rewards",
+        "step2Description": "Link your account during Twitch Drops windows to claim free cosmetic and in-game rewards for the expansion.",
+        "step3Title": "New content and trailers",
+        "step3Description": "Catch update trailers and new content reveals so you never miss a feature or event added to Honeyglow Woods."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Update Articles"
+    },
+    "characters": {
+      "title": "Disney Dreamlight Valley Honeyglow Woods Characters",
+      "description": "Disney Dreamlight Valley Honeyglow Woods characters including Winnie the Pooh, Piglet, Eeyore, and the Hedgehog Pack. Unlock requirements and friendship rewards.",
+      "metaTitle": "Disney Dreamlight Valley Honeyglow Woods Characters - Pooh, Piglet, Eeyore",
+      "metaDescription": "Meet the Disney Dreamlight Valley Honeyglow Woods characters. Learn how to unlock Winnie the Pooh, Piglet, Eeyore, and the Hedgehog Pack, plus their friendship quest rewards.",
+      "categoryLabel": "CHARACTERS",
+      "whatIs": "Who are the Honeyglow Woods characters?",
+      "whatIsDescription": "Disney Dreamlight Valley Honeyglow Woods introduces Winnie the Pooh, Piglet, Eeyore, and the Hedgehog Pack as new friendship characters, each with unique quest lines and rewards.",
+      "why": "Why befriend every character?",
+      "whySteps": {
+        "step1Title": "Unlock requirements",
+        "step1Description": "Discover how to unlock Winnie the Pooh, Piglet, Eeyore, and the Hedgehog Pack as you progress through the Disney Dreamlight Valley Honeyglow Woods story.",
+        "step2Title": "Friendship quests",
+        "step2Description": "Complete each character's friendship quest line to deepen your bond and unlock their unique story moments.",
+        "step3Title": "Character rewards",
+        "step3Description": "Earn exclusive items, cosmetics, and bonuses as you raise friendship levels with the new Honeyglow Woods characters."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Character Articles"
+    },
+    "quests": {
+      "title": "Disney Dreamlight Valley Honeyglow Woods Quests",
+      "description": "Disney Dreamlight Valley Honeyglow Woods quests walkthrough for Chapter 1, 2, and 3, plus the Pooh Sticks guide and the story's ending tease.",
+      "metaTitle": "Disney Dreamlight Valley Honeyglow Woods Quests & Chapter Walkthrough",
+      "metaDescription": "Complete Disney Dreamlight Valley Honeyglow Woods quests with our chapter-by-chapter walkthrough. Cover Chapter 1-3, the Pooh Sticks mini-game, and the ending tease.",
+      "categoryLabel": "QUESTS",
+      "whatIs": "What are the Honeyglow Woods quests?",
+      "whatIsDescription": "Disney Dreamlight Valley Honeyglow Woods quests span a three-chapter story, the Pooh Sticks mini-game, and a closing ending tease that sets up the valley's next mystery.",
+      "why": "Why follow a quest walkthrough?",
+      "whySteps": {
+        "step1Title": "Chapter order",
+        "step1Description": "Follow the Disney Dreamlight Valley Honeyglow Woods story chapter by chapter so you never miss a quest step or unlock.",
+        "step2Title": "Pooh Sticks mini-game",
+        "step2Description": "Master the Pooh Sticks mini-game with rules, location, and winning tips at the Gloommeadow bridge.",
+        "step3Title": "Ending tease",
+        "step3Description": "Unpack the ending tease and understand what the final moments hint at for the future of Honeyglow Woods."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Quest Articles"
+    },
+    "items": {
+      "title": "Disney Dreamlight Valley Honeyglow Woods Items",
+      "description": "Disney Dreamlight Valley Honeyglow Woods items and recipes, including Golden Honey recipes, cooking ingredients, and crafting materials introduced in the expansion.",
+      "metaTitle": "Disney Dreamlight Valley Honeyglow Woods Items & Recipes",
+      "metaDescription": "Browse Disney Dreamlight Valley Honeyglow Woods items and recipes. Find Golden Honey recipes, cooking ingredients, and crafting materials from the new biomes.",
+      "categoryLabel": "ITEMS & RECIPES",
+      "whatIs": "What items and recipes are new?",
+      "whatIsDescription": "Disney Dreamlight Valley Honeyglow Woods items include new recipes, Golden Honey dishes, cooking ingredients, and crafting materials gathered across the four new biomes.",
+      "why": "Why collect every recipe?",
+      "whySteps": {
+        "step1Title": "Golden Honey recipes",
+        "step1Description": "Discover Golden Honey recipes and learn how to turn the expansion's signature ingredient into valuable dishes.",
+        "step2Title": "Ingredient sources",
+        "step2Description": "Find where each cooking ingredient spawns across the new Honeyglow Woods biomes so you can gather efficiently.",
+        "step3Title": "Crafting materials",
+        "step3Description": "Collect the crafting materials introduced in Disney Dreamlight Valley Honeyglow Woods to unlock new furniture, tools, and decorations."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Item Articles"
+    }
   }
 }

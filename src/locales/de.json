@@ -1,1 +1,12 @@
-{}
+{
+  "nav": {
+    "release": "Release",
+    "price": "Preis",
+    "platform": "Plattform",
+    "guide": "Guide",
+    "update": "Update",
+    "characters": "Charaktere",
+    "quests": "Quests",
+    "items": "Items"
+  }
+}

@@ -1,1 +1,12 @@
-{}
+{
+  "nav": {
+    "release": "Lanzamiento",
+    "price": "Precio",
+    "platform": "Plataforma",
+    "guide": "Guía",
+    "update": "Actualización",
+    "characters": "Personajes",
+    "quests": "Misiones",
+    "items": "Objetos"
+  }
+}

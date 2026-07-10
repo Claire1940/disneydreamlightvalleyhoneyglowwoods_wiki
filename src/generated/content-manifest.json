@@ -1,1 +1,714 @@
-{}
+{
+  "de": {
+    "characters": [
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-eeyore",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-eeyore"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-hedgehog-pack",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-hedgehog-pack"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-piglet",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-piglet"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-pooh",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-pooh"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-winnie-the-pooh",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-winnie-the-pooh"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-beginner-guide",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-beginner-guide"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-complete-guide",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-complete-guide"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-everything-you-need-to-know",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-everything-you-need-to-know"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-first-look",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-first-look"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-prep",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-prep"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-storage",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-storage"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-walkthrough",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-walkthrough"
+      }
+    ],
+    "items": [
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-all-recipes",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-all-recipes"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-recipes",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-recipes"
+      }
+    ],
+    "platform": [
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-nintendo-switch-2",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-nintendo-switch-2"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-nintendo-switch",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-nintendo-switch"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-preorder",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-preorder"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-steam",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-steam"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-switch",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-switch"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-xbox",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-xbox"
+      }
+    ],
+    "price": [
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-adventure-pack-price",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-adventure-pack-price"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-cost",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-cost"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-price",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-price"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-review",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-review"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-worth-it",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-worth-it"
+      }
+    ],
+    "quests": [
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-chapter-1",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-chapter-1"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-chapter-2",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-chapter-2"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-chapter-3",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-chapter-3"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-ending-tease",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-ending-tease"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-pooh-sticks-guide",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-pooh-sticks-guide"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-quests",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-quests"
+      }
+    ],
+    "release": [
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-launch-date",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-launch-date"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-release-date",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-release-date"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-release-time",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-release-time"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-release",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-release"
+      }
+    ],
+    "update": [
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-july-update",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-july-update"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-launch-trailer",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-launch-trailer"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-patch-notes",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-patch-notes"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-twitch-drops",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-twitch-drops"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-update",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-update"
+      }
+    ]
+  },
+  "en": {
+    "characters": [
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-eeyore",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-eeyore"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-hedgehog-pack",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-hedgehog-pack"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-piglet",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-piglet"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-pooh",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-pooh"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-winnie-the-pooh",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-winnie-the-pooh"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-beginner-guide",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-beginner-guide"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-complete-guide",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-complete-guide"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-everything-you-need-to-know",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-everything-you-need-to-know"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-first-look",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-first-look"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-prep",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-prep"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-storage",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-storage"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-walkthrough",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-walkthrough"
+      }
+    ],
+    "items": [
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-all-recipes",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-all-recipes"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-recipes",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-recipes"
+      }
+    ],
+    "platform": [
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-nintendo-switch-2",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-nintendo-switch-2"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-nintendo-switch",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-nintendo-switch"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-preorder",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-preorder"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-steam",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-steam"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-switch",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-switch"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-xbox",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-xbox"
+      }
+    ],
+    "price": [
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-adventure-pack-price",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-adventure-pack-price"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-cost",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-cost"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-price",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-price"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-review",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-review"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-worth-it",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-worth-it"
+      }
+    ],
+    "quests": [
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-chapter-1",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-chapter-1"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-chapter-2",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-chapter-2"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-chapter-3",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-chapter-3"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-ending-tease",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-ending-tease"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-pooh-sticks-guide",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-pooh-sticks-guide"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-quests",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-quests"
+      }
+    ],
+    "release": [
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-launch-date",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-launch-date"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-release-date",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-release-date"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-release-time",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-release-time"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-release",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-release"
+      }
+    ],
+    "update": [
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-july-update",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-july-update"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-launch-trailer",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-launch-trailer"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-patch-notes",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-patch-notes"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-twitch-drops",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-twitch-drops"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-update",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-update"
+      }
+    ]
+  },
+  "es": {
+    "characters": [
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-eeyore",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-eeyore"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-hedgehog-pack",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-hedgehog-pack"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-piglet",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-piglet"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-pooh",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-pooh"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-winnie-the-pooh",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-winnie-the-pooh"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-beginner-guide",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-beginner-guide"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-complete-guide",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-complete-guide"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-everything-you-need-to-know",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-everything-you-need-to-know"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-first-look",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-first-look"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-prep",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-prep"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-storage",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-storage"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-walkthrough",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-walkthrough"
+      }
+    ],
+    "items": [
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-all-recipes",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-all-recipes"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-recipes",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-recipes"
+      }
+    ],
+    "platform": [
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-nintendo-switch-2",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-nintendo-switch-2"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-nintendo-switch",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-nintendo-switch"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-preorder",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-preorder"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-steam",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-steam"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-switch",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-switch"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-xbox",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-xbox"
+      }
+    ],
+    "price": [
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-adventure-pack-price",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-adventure-pack-price"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-cost",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-cost"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-price",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-price"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-review",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-review"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-worth-it",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-worth-it"
+      }
+    ],
+    "quests": [
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-chapter-1",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-chapter-1"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-chapter-2",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-chapter-2"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-chapter-3",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-chapter-3"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-ending-tease",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-ending-tease"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-pooh-sticks-guide",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-pooh-sticks-guide"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-quests",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-quests"
+      }
+    ],
+    "release": [
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-launch-date",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-launch-date"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-release-date",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-release-date"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-release-time",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-release-time"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-release",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-release"
+      }
+    ],
+    "update": [
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-july-update",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-july-update"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-launch-trailer",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-launch-trailer"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-patch-notes",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-patch-notes"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-twitch-drops",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-twitch-drops"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-update",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-update"
+      }
+    ]
+  },
+  "fr": {
+    "characters": [
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-eeyore",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-eeyore"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-hedgehog-pack",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-hedgehog-pack"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-piglet",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-piglet"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-pooh",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-pooh"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-winnie-the-pooh",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-winnie-the-pooh"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-beginner-guide",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-beginner-guide"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-complete-guide",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-complete-guide"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-everything-you-need-to-know",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-everything-you-need-to-know"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-first-look",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-first-look"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-prep",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-prep"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-storage",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-storage"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-walkthrough",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-walkthrough"
+      }
+    ],
+    "items": [
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-all-recipes",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-all-recipes"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-recipes",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-recipes"
+      }
+    ],
+    "platform": [
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-nintendo-switch-2",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-nintendo-switch-2"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-nintendo-switch",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-nintendo-switch"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-preorder",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-preorder"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-steam",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-steam"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-switch",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-switch"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-xbox",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-xbox"
+      }
+    ],
+    "price": [
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-adventure-pack-price",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-adventure-pack-price"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-cost",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-cost"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-price",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-price"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-review",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-review"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-worth-it",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-worth-it"
+      }
+    ],
+    "quests": [
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-chapter-1",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-chapter-1"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-chapter-2",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-chapter-2"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-chapter-3",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-chapter-3"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-ending-tease",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-ending-tease"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-pooh-sticks-guide",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-pooh-sticks-guide"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-quests",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-quests"
+      }
+    ],
+    "release": [
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-launch-date",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-launch-date"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-release-date",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-release-date"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-release-time",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-release-time"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-release",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-release"
+      }
+    ],
+    "update": [
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-july-update",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-july-update"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-launch-trailer",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-launch-trailer"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-patch-notes",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-patch-notes"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-twitch-drops",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-twitch-drops"
+      },
+      {
+        "slug": "Disney-Dreamlight-Valley-Honeyglow-Woods-update",
+        "file": "Disney-Dreamlight-Valley-Honeyglow-Woods-update"
+      }
+    ]
+  }
+}
