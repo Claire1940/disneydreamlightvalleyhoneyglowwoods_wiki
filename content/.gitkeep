@@ -1,0 +1,3 @@
+# 此目录存放 MDX 内容文章（content/<locale>/<type>/<slug>.mdx）。
+# game-refactor Part 3 清空了模板残留内容；后续 part 会按新主题重新填充。
+# 保留空目录占位，避免 CI 的 generate-content-manifest.mjs 因 content/ 缺失而 exit(1)。
