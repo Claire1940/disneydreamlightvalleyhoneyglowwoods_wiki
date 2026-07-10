@@ -137,11 +137,12 @@ export async function buildModuleLinkMap(locale: Language): Promise<ModuleLinkMa
     const moduleData = enMessages.modules?.[moduleKey]
     if (!moduleData) continue
 
-    // Match module h2 title (use extra keywords + lower threshold for broader matching)
+    // Match module h2 title (extra keywords + threshold 40 to avoid false matches
+    // from broad description overlap; verified all 8 modules still match at >=55)
     const moduleTitle = moduleData.title as string
     if (moduleTitle) {
       const extraKw = MODULE_EXTRA_KEYWORDS[moduleKey] || []
-      linkMap[moduleKey] = findBestMatch(moduleTitle, allArticles, extraKw, 15)
+      linkMap[moduleKey] = findBestMatch(moduleTitle, allArticles, extraKw, 40)
     }
 
     // Match sub-items
