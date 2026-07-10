@@ -1,15 +1,34 @@
 "use client";
 
-import { Suspense, lazy } from "react";
+import { Suspense, lazy, useState } from "react";
 import {
   ArrowRight,
   Calendar,
+  Camera,
+  Check,
+  CheckCircle2,
+  ChefHat,
+  ChevronDown,
+  Cloud,
+  Droplets,
+  Flower2,
+  Gamepad2,
   Gift,
+  Heart,
+  Hexagon,
+  Lamp,
   Lightbulb,
   MapPin,
+  PawPrint,
+  Play,
   Sparkles,
+  Sofa,
+  TreePine,
+  Trophy,
+  UtensilsCrossed,
   Users,
 } from "lucide-react";
+import type { LucideIcon } from "lucide-react";
 import Link from "next/link";
 import { useMessages } from "next-intl";
 import { VideoFeature } from "@/components/home/VideoFeature";
@@ -61,11 +80,31 @@ function LinkedTitle({
 }
 
 // Module eyebrow labels (short, thematic section tags above each module title)
-const MODULE_EYEBROWS: Record<string, { label: string; icon: "Calendar" | "Gift" | "MapPin" | "Users" }> = {
+type EyebrowIconName =
+  | "Calendar"
+  | "Gift"
+  | "MapPin"
+  | "Users"
+  | "TreePine"
+  | "Hexagon"
+  | "ChefHat"
+  | "Gamepad2";
+
+const MODULE_EYEBROWS: Record<
+  string,
+  { label: string; icon: EyebrowIconName }
+> = {
   honeyglowReleaseDatePrice: { label: "Release & Purchase", icon: "Calendar" },
   honeyglowCodesAndRewards: { label: "Codes & Rewards", icon: "Gift" },
   honeyglowBeginnerGuide: { label: "Starter Walkthrough", icon: "MapPin" },
   honeyglowCharactersGuide: { label: "Characters", icon: "Users" },
+  honeyglowBiomesEveroakGuide: { label: "Map & Exploration", icon: "TreePine" },
+  honeyglowBeekeepingGoldenHoney: { label: "Beekeeping", icon: "Hexagon" },
+  honeyglowRecipesCrafting: { label: "Recipes & Crafting", icon: "ChefHat" },
+  honeyglowPoohSticksCritters: {
+    label: "Mini-Game & Critters",
+    icon: "Gamepad2",
+  },
 };
 
 // Maps Tools Grid card index -> target section id (1:1 with module sections below)
@@ -74,7 +113,81 @@ const TOOLS_SECTION_IDS = [
   "codes-and-rewards",
   "beginner-guide",
   "characters-guide",
+  "biomes-everoak-guide",
+  "beekeeping-golden-honey",
+  "recipes-crafting-guide",
+  "pooh-sticks-critters-guide",
 ];
+
+// Recipe & crafting category -> icon (module 7)
+const RECIPE_CATEGORY_ICONS: Record<string, LucideIcon> = {
+  "Core Resource": Droplets,
+  Recipe: UtensilsCrossed,
+  Furniture: Lamp,
+  "Furniture Set": Sofa,
+  Decor: Flower2,
+};
+
+// Pooh Sticks & critters category -> icon (module 8)
+const POOH_CATEGORY_ICONS: Record<string, LucideIcon> = {
+  "Mini-Game": Gamepad2,
+  Gameplay: Play,
+  Rewards: Trophy,
+  Critters: PawPrint,
+  "Photo Mode": Camera,
+  "Side Activities": Cloud,
+};
+
+// Expandable accordion item (module 5 - biomes & Everoak Tree)
+function AccordionItem({
+  heading,
+  content,
+  highlights,
+  defaultOpen = false,
+}: {
+  heading: string;
+  content: string;
+  highlights?: string[];
+  defaultOpen?: boolean;
+}) {
+  const [open, setOpen] = useState(defaultOpen);
+  return (
+    <div className="rounded-xl border border-border bg-white/5 transition-colors hover:border-[hsl(var(--nav-theme)/0.5)]">
+      <button
+        type="button"
+        onClick={() => setOpen((v) => !v)}
+        aria-expanded={open}
+        className="flex w-full items-center justify-between gap-3 p-4 text-left md:p-5"
+      >
+        <span className="font-semibold text-base md:text-lg">{heading}</span>
+        <ChevronDown
+          className={`h-5 w-5 flex-shrink-0 text-[hsl(var(--nav-theme-light))] transition-transform duration-300 ${
+            open ? "rotate-180" : ""
+          }`}
+        />
+      </button>
+      {open && (
+        <div className="border-t border-border px-4 pb-4 pt-3 md:px-5 md:pb-5">
+          <p className="text-sm leading-7 text-muted-foreground md:text-base">
+            {content}
+          </p>
+          {highlights && highlights.length > 0 && (
+            <div className="mt-3 flex flex-wrap gap-2">
+              {highlights.map((h, i) => (
+                <span
+                  key={i}
+                  className="inline-flex items-center rounded-full border border-[hsl(var(--nav-theme)/0.3)] bg-[hsl(var(--nav-theme)/0.1)] px-2.5 py-1 text-xs text-[hsl(var(--nav-theme-light))]"
+                >
+                  {h}
+                </span>
+              ))}
+            </div>
+          )}
+        </div>
+      )}
+    </div>
+  );
+}
 
 interface HomePageClientProps {
   latestArticles: ContentItemWithType[];
@@ -174,8 +287,17 @@ export default function HomePageClient({
   };
 
   const mobileBannerAd = getPreferredMobileBannerSelection();
-  const EyebrowIcon = ({ name }: { name: "Calendar" | "Gift" | "MapPin" | "Users" }) => {
-    const map = { Calendar, Gift, MapPin, Users };
+  const EyebrowIcon = ({ name }: { name: EyebrowIconName }) => {
+    const map = {
+      Calendar,
+      Gift,
+      MapPin,
+      Users,
+      TreePine,
+      Hexagon,
+      ChefHat,
+      Gamepad2,
+    };
     const Icon = map[name];
     return <Icon className="h-4 w-4" />;
   };
@@ -637,6 +759,259 @@ export default function HomePageClient({
                   </dl>
                 </div>
               ),
+            )}
+          </div>
+        </div>
+      </section>
+
+      {/* 广告位: 模块 4 与模块 5 之间的阅读停顿位 */}
+      <AdBanner
+        type="banner-300x250"
+        adKey={process.env.NEXT_PUBLIC_AD_BANNER_300X250}
+        className="md:hidden"
+      />
+      <AdBanner
+        type="banner-468x60"
+        adKey={process.env.NEXT_PUBLIC_AD_BANNER_468X60}
+        className="hidden md:flex"
+      />
+
+      {/* Module 5: Biomes and Everoak Tree (Accordion) */}
+      <section
+        id="biomes-everoak-guide"
+        className="scroll-mt-24 px-4 py-14 md:py-20"
+      >
+        <div className="container mx-auto max-w-5xl">
+          <div className="mb-8 text-center scroll-reveal md:mb-12">
+            <div className="mb-4 inline-flex items-center gap-2 rounded-full border border-[hsl(var(--nav-theme)/0.3)] bg-[hsl(var(--nav-theme)/0.1)] px-3 py-1.5 text-xs font-semibold uppercase tracking-wide text-[hsl(var(--nav-theme-light))] md:text-sm">
+              <EyebrowIcon name={MODULE_EYEBROWS.honeyglowBiomesEveroakGuide.icon} />
+              {MODULE_EYEBROWS.honeyglowBiomesEveroakGuide.label}
+            </div>
+            <h2 className="mb-3 text-3xl font-bold md:mb-4 md:text-5xl">
+              <LinkedTitle
+                linkData={moduleLinkMap["honeyglowBiomesEveroakGuide"]}
+                locale={locale}
+              >
+                {t.modules.honeyglowBiomesEveroakGuide.title}
+              </LinkedTitle>
+            </h2>
+            <p className="mx-auto max-w-3xl text-base text-muted-foreground md:text-lg">
+              {t.modules.honeyglowBiomesEveroakGuide.intro}
+            </p>
+          </div>
+          <div className="grid grid-cols-1 gap-3 scroll-reveal md:grid-cols-2 md:gap-4">
+            {t.modules.honeyglowBiomesEveroakGuide.items.map(
+              (item: any, index: number) => (
+                <AccordionItem
+                  key={index}
+                  heading={item.heading}
+                  content={item.content}
+                  highlights={item.highlights}
+                  defaultOpen={index === 0}
+                />
+              ),
+            )}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 6: Beekeeping and Golden Honey (Step-by-Step) */}
+      <section
+        id="beekeeping-golden-honey"
+        className="scroll-mt-24 bg-white/[0.02] px-4 py-14 md:py-20"
+      >
+        <div className="container mx-auto max-w-5xl">
+          <div className="mb-8 text-center scroll-reveal md:mb-12">
+            <div className="mb-4 inline-flex items-center gap-2 rounded-full border border-[hsl(var(--nav-theme)/0.3)] bg-[hsl(var(--nav-theme)/0.1)] px-3 py-1.5 text-xs font-semibold uppercase tracking-wide text-[hsl(var(--nav-theme-light))] md:text-sm">
+              <EyebrowIcon
+                name={MODULE_EYEBROWS.honeyglowBeekeepingGoldenHoney.icon}
+              />
+              {MODULE_EYEBROWS.honeyglowBeekeepingGoldenHoney.label}
+            </div>
+            <h2 className="mb-3 text-3xl font-bold md:mb-4 md:text-5xl">
+              <LinkedTitle
+                linkData={moduleLinkMap["honeyglowBeekeepingGoldenHoney"]}
+                locale={locale}
+              >
+                {t.modules.honeyglowBeekeepingGoldenHoney.title}
+              </LinkedTitle>
+            </h2>
+            <p className="mx-auto max-w-3xl text-base text-muted-foreground md:text-lg">
+              {t.modules.honeyglowBeekeepingGoldenHoney.intro}
+            </p>
+          </div>
+          <div className="space-y-4 scroll-reveal">
+            {t.modules.honeyglowBeekeepingGoldenHoney.steps.map(
+              (step: any, index: number) => (
+                <div
+                  key={index}
+                  className="flex gap-4 rounded-xl border border-border bg-white/5 p-4 transition-colors hover:border-[hsl(var(--nav-theme)/0.5)] md:p-6"
+                >
+                  <div className="flex h-11 w-11 flex-shrink-0 items-center justify-center rounded-full border-2 border-[hsl(var(--nav-theme)/0.5)] bg-[hsl(var(--nav-theme)/0.2)] md:h-12 md:w-12">
+                    <span className="text-base font-bold text-[hsl(var(--nav-theme-light))] md:text-xl">
+                      {index + 1}
+                    </span>
+                  </div>
+                  <div className="min-w-0">
+                    <h3 className="mb-1.5 text-lg font-bold md:mb-2 md:text-xl">
+                      {step.title}
+                    </h3>
+                    <p className="text-sm text-muted-foreground md:text-base">
+                      {step.description}
+                    </p>
+                    {step.result && (
+                      <div className="mt-3 flex items-start gap-2 rounded-lg border border-[hsl(var(--nav-theme)/0.3)] bg-[hsl(var(--nav-theme)/0.07)] p-3">
+                        <CheckCircle2 className="mt-0.5 h-4 w-4 flex-shrink-0 text-[hsl(var(--nav-theme-light))]" />
+                        <p className="text-sm">
+                          <span className="font-semibold">Result: </span>
+                          {step.result}
+                        </p>
+                      </div>
+                    )}
+                  </div>
+                </div>
+              ),
+            )}
+          </div>
+        </div>
+      </section>
+
+      {/* 广告位: 模块 6 与模块 7 之间的阅读停顿位 */}
+      <AdBanner
+        type="banner-300x250"
+        adKey={process.env.NEXT_PUBLIC_AD_BANNER_300X250}
+        className="md:hidden"
+      />
+      <AdBanner
+        type="banner-728x90"
+        adKey={process.env.NEXT_PUBLIC_AD_BANNER_728X90}
+        className="hidden md:flex"
+      />
+
+      {/* Module 7: Recipes and Crafting (Card Grid) */}
+      <section
+        id="recipes-crafting-guide"
+        className="scroll-mt-24 px-4 py-14 md:py-20"
+      >
+        <div className="container mx-auto max-w-5xl">
+          <div className="mb-8 text-center scroll-reveal md:mb-12">
+            <div className="mb-4 inline-flex items-center gap-2 rounded-full border border-[hsl(var(--nav-theme)/0.3)] bg-[hsl(var(--nav-theme)/0.1)] px-3 py-1.5 text-xs font-semibold uppercase tracking-wide text-[hsl(var(--nav-theme-light))] md:text-sm">
+              <EyebrowIcon name={MODULE_EYEBROWS.honeyglowRecipesCrafting.icon} />
+              {MODULE_EYEBROWS.honeyglowRecipesCrafting.label}
+            </div>
+            <h2 className="mb-3 text-3xl font-bold md:mb-4 md:text-5xl">
+              <LinkedTitle
+                linkData={moduleLinkMap["honeyglowRecipesCrafting"]}
+                locale={locale}
+              >
+                {t.modules.honeyglowRecipesCrafting.title}
+              </LinkedTitle>
+            </h2>
+            <p className="mx-auto max-w-3xl text-base text-muted-foreground md:text-lg">
+              {t.modules.honeyglowRecipesCrafting.intro}
+            </p>
+          </div>
+          <div className="grid grid-cols-1 gap-4 scroll-reveal sm:grid-cols-2 md:grid-cols-3">
+            {t.modules.honeyglowRecipesCrafting.items.map(
+              (item: any, index: number) => {
+                const Icon = RECIPE_CATEGORY_ICONS[item.category] || Sparkles;
+                return (
+                  <div
+                    key={index}
+                    className="flex flex-col rounded-xl border border-border bg-white/5 p-5 transition-colors hover:border-[hsl(var(--nav-theme)/0.5)]"
+                  >
+                    <div className="mb-3 flex items-center justify-between gap-2">
+                      <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-[hsl(var(--nav-theme)/0.1)]">
+                        <Icon className="h-5 w-5 text-[hsl(var(--nav-theme-light))]" />
+                      </div>
+                      <span className="rounded-full border border-[hsl(var(--nav-theme)/0.3)] bg-[hsl(var(--nav-theme)/0.1)] px-2.5 py-1 text-xs text-[hsl(var(--nav-theme-light))]">
+                        {item.category}
+                      </span>
+                    </div>
+                    <h3 className="mb-1.5 text-base font-bold md:text-lg">
+                      {item.title}
+                    </h3>
+                    <p className="text-sm text-muted-foreground">
+                      {item.description}
+                    </p>
+                    <div className="mt-3 border-t border-border pt-3">
+                      <p className="mb-1 text-xs font-semibold uppercase tracking-wide text-muted-foreground">
+                        Best for
+                      </p>
+                      <p className="text-sm">{item.use}</p>
+                    </div>
+                  </div>
+                );
+              },
+            )}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 8: Pooh Sticks and Critters (Card Grid) */}
+      <section
+        id="pooh-sticks-critters-guide"
+        className="scroll-mt-24 bg-white/[0.02] px-4 py-14 md:py-20"
+      >
+        <div className="container mx-auto max-w-5xl">
+          <div className="mb-8 text-center scroll-reveal md:mb-12">
+            <div className="mb-4 inline-flex items-center gap-2 rounded-full border border-[hsl(var(--nav-theme)/0.3)] bg-[hsl(var(--nav-theme)/0.1)] px-3 py-1.5 text-xs font-semibold uppercase tracking-wide text-[hsl(var(--nav-theme-light))] md:text-sm">
+              <EyebrowIcon
+                name={MODULE_EYEBROWS.honeyglowPoohSticksCritters.icon}
+              />
+              {MODULE_EYEBROWS.honeyglowPoohSticksCritters.label}
+            </div>
+            <h2 className="mb-3 text-3xl font-bold md:mb-4 md:text-5xl">
+              <LinkedTitle
+                linkData={moduleLinkMap["honeyglowPoohSticksCritters"]}
+                locale={locale}
+              >
+                {t.modules.honeyglowPoohSticksCritters.title}
+              </LinkedTitle>
+            </h2>
+            <p className="mx-auto max-w-3xl text-base text-muted-foreground md:text-lg">
+              {t.modules.honeyglowPoohSticksCritters.intro}
+            </p>
+          </div>
+          <div className="grid grid-cols-1 gap-4 scroll-reveal md:grid-cols-2">
+            {t.modules.honeyglowPoohSticksCritters.items.map(
+              (item: any, index: number) => {
+                const Icon = POOH_CATEGORY_ICONS[item.category] || Heart;
+                return (
+                  <div
+                    key={index}
+                    className="flex flex-col rounded-xl border border-border bg-white/5 p-5 transition-colors hover:border-[hsl(var(--nav-theme)/0.5)] md:p-6"
+                  >
+                    <div className="mb-3 flex items-center gap-3">
+                      <div className="flex h-10 w-10 flex-shrink-0 items-center justify-center rounded-lg bg-[hsl(var(--nav-theme)/0.1)]">
+                        <Icon className="h-5 w-5 text-[hsl(var(--nav-theme-light))]" />
+                      </div>
+                      <h3 className="text-base font-bold md:text-lg">
+                        {item.title}
+                      </h3>
+                    </div>
+                    <span className="mb-3 w-fit rounded-full border border-[hsl(var(--nav-theme)/0.3)] bg-[hsl(var(--nav-theme)/0.1)] px-2.5 py-1 text-xs text-[hsl(var(--nav-theme-light))]">
+                      {item.category}
+                    </span>
+                    <p className="mb-3 text-sm text-muted-foreground">
+                      {item.description}
+                    </p>
+                    {item.details && item.details.length > 0 && (
+                      <ul className="mt-auto space-y-1.5">
+                        {item.details.map((d: string, i: number) => (
+                          <li
+                            key={i}
+                            className="flex items-start gap-2 text-sm"
+                          >
+                            <Check className="mt-0.5 h-4 w-4 flex-shrink-0 text-[hsl(var(--nav-theme-light))]" />
+                            <span>{d}</span>
+                          </li>
+                        ))}
+                      </ul>
+                    )}
+                  </div>
+                );
+              },
             )}
           </div>
         </div>

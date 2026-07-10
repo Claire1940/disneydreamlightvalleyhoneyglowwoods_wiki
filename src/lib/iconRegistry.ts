@@ -33,6 +33,8 @@ export const iconRegistry: Record<string, LucideIcon> = {
   MapPin: LucideIcons.MapPin,
   TreePine: LucideIcons.TreePine,
   Heart: LucideIcons.Heart,
+  Hexagon: LucideIcons.Hexagon,
+  ChefHat: LucideIcons.ChefHat,
 
   // UI 交互图标
   Sparkles: LucideIcons.Sparkles,

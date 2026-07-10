@@ -18,6 +18,10 @@ const MODULE_FIELDS: Record<string, { field: string; nameKey: string }> = {
   honeyglowCodesAndRewards: { field: 'rewards', nameKey: 'name' },
   honeyglowBeginnerGuide: { field: 'steps', nameKey: 'title' },
   honeyglowCharactersGuide: { field: 'characters', nameKey: 'name' },
+  honeyglowBiomesEveroakGuide: { field: 'items', nameKey: 'heading' },
+  honeyglowBeekeepingGoldenHoney: { field: 'steps', nameKey: 'title' },
+  honeyglowRecipesCrafting: { field: 'items', nameKey: 'title' },
+  honeyglowPoohSticksCritters: { field: 'items', nameKey: 'title' },
 }
 
 // Extra semantic keywords per module to boost matching for h2 titles
@@ -27,6 +31,10 @@ const MODULE_EXTRA_KEYWORDS: Record<string, string[]> = {
   honeyglowCodesAndRewards: ['codes', 'redeem', 'redemption', 'twitch drops', 'rewards', 'rainy day', 'clothesline', 'dream style'],
   honeyglowBeginnerGuide: ['beginner', 'guide', 'walkthrough', 'mailbox', 'tree sprout', 'gateway', 'first steps', 'start'],
   honeyglowCharactersGuide: ['characters', 'winnie the pooh', 'eeyore', 'piglet', 'friendship', 'villager', 'quest'],
+  honeyglowBiomesEveroakGuide: ['biomes', 'areas', 'everoak tree', 'drowsybloom', 'gloommeadow', 'braveheart grove', 'nectar apiary', 'exploration', 'map'],
+  honeyglowBeekeepingGoldenHoney: ['beekeeping', 'busy bees house', 'golden honey', 'flowers', 'pollinate', 'honey', 'apiary'],
+  honeyglowRecipesCrafting: ['recipes', 'crafting', 'cooking', 'furniture', 'decoration', 'honeyglow furniture', 'honeypot lamp', 'pooh cake'],
+  honeyglowPoohSticksCritters: ['pooh sticks', 'mini-game', 'minigame', 'critters', 'hedgehog', 'photo mode', 'gloommeadow bridge', 'friendship'],
 }
 
 const FILLER_WORDS = ['disney', 'dreamlight', 'valley', 'honeyglow', 'woods', '2026', '2025', 'complete', 'the', 'and', 'for', 'how', 'with', 'our', 'this', 'your', 'all', 'from', 'learn', 'master']

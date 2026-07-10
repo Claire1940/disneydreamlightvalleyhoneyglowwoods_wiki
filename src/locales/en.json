@@ -58,7 +58,7 @@
   "tools": {
     "title": "Honeyglow Woods",
     "titleHighlight": "Wiki Guides",
-    "subtitle": "Everything you need for Disney Dreamlight Valley: Honeyglow Woods — release details, codes and rewards, a beginner walkthrough, and the new Winnie the Pooh characters.",
+    "subtitle": "Everything you need for Disney Dreamlight Valley: Honeyglow Woods — release details, codes and rewards, a beginner walkthrough, the Winnie the Pooh characters, the four new biomes, beekeeping and Golden Honey, recipes, and Pooh Sticks.",
     "cards": [
       {
         "icon": "Calendar",
@@ -79,6 +79,26 @@
         "icon": "Users",
         "title": "Characters Guide",
         "description": "Winnie the Pooh, Eeyore, and Piglet — homes, Friendship Quests, and rewards"
+      },
+      {
+        "icon": "TreePine",
+        "title": "Biomes & Everoak",
+        "description": "Drowsybloom Acre, Gloommeadow, Braveheart Grove, Nectar Apiary, and the Everoak Tree"
+      },
+      {
+        "icon": "Hexagon",
+        "title": "Beekeeping & Honey",
+        "description": "Busy Bees' Houses, flower pollination, and crafting with Golden Honey"
+      },
+      {
+        "icon": "ChefHat",
+        "title": "Recipes & Crafting",
+        "description": "Honey recipes, Honeyglow furniture, and cozy decorating ideas"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "Pooh Sticks & Critters",
+        "description": "The Gloommeadow bridge mini-game, hedgehog critters, and cozy side activities"
       }
     ]
   },
@@ -251,6 +271,231 @@
           "moments": "Courage-focused quests, friendship activities, and the Piglet's Clothesline Twitch Drop reward theme."
         }
       ]
+    },
+    "honeyglowBiomesEveroakGuide": {
+      "title": "Disney Dreamlight Valley Honeyglow Woods Biomes and Everoak Tree Guide",
+      "intro": "Honeyglow Woods opens around the mysterious Everoak Tree, with four new areas to explore and restore: Drowsybloom Acre, Gloommeadow, Braveheart Grove, and Nectar Apiary. Each area adds its own mood, puzzles, secrets, and restoration goals as you clear the fog and bring warmth back to the Woods.",
+      "items": [
+        {
+          "heading": "Magical Tree Gateway",
+          "content": "The adventure begins with a Tree Sprout from a mysterious mailbox package. Once planted, it grows into a glowing gateway that can be placed in the Valley or on base game Floating Islands, then moved or removed later.",
+          "highlights": [
+            "Tree Sprout start",
+            "Placeable gateway",
+            "Valley and Floating Islands support"
+          ]
+        },
+        {
+          "heading": "Drowsybloom Acre",
+          "content": "Drowsybloom Acre is one of the four main Honeyglow Woods areas. It is a flower-filled meadow that works as a key early exploration zone while you begin restoring warmth to the Woods.",
+          "highlights": [
+            "Flower-filled meadow",
+            "Early exploration zone",
+            "Tied to the Everoak Tree mystery"
+          ]
+        },
+        {
+          "heading": "Gloommeadow",
+          "content": "Gloommeadow is a misty, marshy area where you can find a Honeyglow bridge and play Pooh Sticks with villagers. It connects exploration with cozy side activities and friendship progression.",
+          "highlights": [
+            "Misty marsh setting",
+            "Pooh Sticks bridge",
+            "Friendship activity"
+          ]
+        },
+        {
+          "heading": "Braveheart Grove",
+          "content": "Braveheart Grove is a deeper woodland area hidden beyond the fog. It carries the adventure's courage theme and the process of pushing deeper into the Woods with Pooh, Eeyore, and Piglet.",
+          "highlights": [
+            "Blooming grove",
+            "Fog exploration",
+            "Story progression"
+          ]
+        },
+        {
+          "heading": "Nectar Apiary",
+          "content": "Nectar Apiary is the hidden honey-focused area filled with giant honeycombs. It sits near the source of the Woods' troubles and connects closely with Golden Honey and beekeeping.",
+          "highlights": [
+            "Hidden apiary",
+            "Giant honeycombs",
+            "Honey mystery"
+          ]
+        },
+        {
+          "heading": "Everoak Tree Mystery",
+          "content": "The Everoak Tree stands at the center of Honeyglow Woods. You restore the surrounding areas, solve puzzles inside the mysterious tree, mend the land, and uncover what has gone wrong in the Woods.",
+          "highlights": [
+            "Central landmark",
+            "Puzzle focus",
+            "Restoration goal"
+          ]
+        },
+        {
+          "heading": "Useful Portals",
+          "content": "Honeyglow Woods includes special portals that take you directly to Scrooge McDuck's Store and Chez Remy, making shopping, cooking, and decorating loops easier during the adventure.",
+          "highlights": [
+            "Scrooge McDuck's Store portal",
+            "Chez Remy portal",
+            "Faster resource loop"
+          ]
+        }
+      ]
+    },
+    "honeyglowBeekeepingGoldenHoney": {
+      "title": "Disney Dreamlight Valley Honeyglow Woods Beekeeping and Golden Honey Guide",
+      "intro": "Beekeeping is the main new resource system in Honeyglow Woods. You place flowers around Busy Bees' Houses, let the bees pollinate them, generate Golden Honey, and then use that honey for cooking, crafting, and decorating across the Valley.",
+      "steps": [
+        {
+          "title": "Unlock Beekeeping Through Honeyglow Woods",
+          "description": "Progress through the Honeyglow Woods adventure until Busy Bees' Houses become part of the new beekeeping loop.",
+          "result": "Beekeeping becomes available as a Honeyglow Woods mechanic."
+        },
+        {
+          "title": "Place a Busy Bees' House",
+          "description": "Set up a Busy Bees' House in a usable area. These houses are the central hub for generating Golden Honey.",
+          "result": "The house becomes the collection point for honey production."
+        },
+        {
+          "title": "Place Flowers Around the House",
+          "description": "Arrange flowers around the Busy Bees' House so the bees can pollinate them and help produce honey inside the house.",
+          "result": "Nearby flowers power the honey production loop."
+        },
+        {
+          "title": "Generate Golden Honey",
+          "description": "A properly supported Busy Bees' House produces Golden Honey, the main ingredient for Honeyglow recipes, furniture, and decorations.",
+          "result": "Golden Honey becomes a craftable and cookable resource."
+        },
+        {
+          "title": "Boost Nearby Flower Growth",
+          "description": "A fully pollinated Busy Bees' House increases the growth speed of other nearby flowers.",
+          "result": "Flower farming becomes faster around a strong beekeeping setup."
+        },
+        {
+          "title": "Move Houses to Other Biomes",
+          "description": "Busy Bees' Houses can be moved to other biomes, including the base game Valley.",
+          "result": "You can bring Honeyglow beekeeping into your main decorating and farming spaces."
+        }
+      ]
+    },
+    "honeyglowRecipesCrafting": {
+      "title": "Disney Dreamlight Valley Honeyglow Woods Recipes and Crafting Guide",
+      "intro": "Golden Honey powers a new set of honey-based recipes, furniture, and decorations in Honeyglow Woods. Use this hub as a quick overview of what to cook, craft, and decorate after you start beekeeping.",
+      "items": [
+        {
+          "title": "Golden Honey",
+          "category": "Core Resource",
+          "description": "Golden Honey is generated through the beekeeping mechanic and used across Honeyglow cooking, crafting, and decorating.",
+          "use": "Main ingredient and crafting material for Honeyglow-themed content."
+        },
+        {
+          "title": "Warm Milk & Honey",
+          "category": "Recipe",
+          "description": "A honey-based recipe highlighted for the Honeyglow Woods Adventure Pack.",
+          "use": "A cozy drink-style food item for your recipe collection."
+        },
+        {
+          "title": "Honeycrunch Bar",
+          "category": "Recipe",
+          "description": "A sweet honey-themed food item included among the new Honeyglow Woods recipe examples.",
+          "use": "A great snack or dessert recipe card."
+        },
+        {
+          "title": "Pooh's Birthday Cake",
+          "category": "Recipe",
+          "description": "A Winnie the Pooh-themed cake recipe connected to the Honeyglow Woods cooking set.",
+          "use": "A featured character-themed recipe."
+        },
+        {
+          "title": "Honeypot Lamp",
+          "category": "Furniture",
+          "description": "A Honeyglow furniture piece designed around the classic honey pot look.",
+          "use": "Great for cozy indoor rooms, Winnie the Pooh areas, and warm lighting builds."
+        },
+        {
+          "title": "Cozy Honeyleaf Rug",
+          "category": "Furniture",
+          "description": "A Honeyglow decoration with a soft, nature-inspired theme.",
+          "use": "Perfect for cottagecore rooms, woodland corners, and Honeyglow-themed homes."
+        },
+        {
+          "title": "Honeyglow Furniture Set",
+          "category": "Furniture Set",
+          "description": "A broader furniture collection unlocked through Golden Honey crafting and Honeyglow Woods progression.",
+          "use": "The main decorating set for honey, forest, and Hundred Acre Wood-inspired builds."
+        },
+        {
+          "title": "Honey-Themed Decorations",
+          "category": "Decor",
+          "description": "Honeyglow Woods supports new decorative items inspired by honey, flowers, bees, and the golden glow of the Woods.",
+          "use": "Ideal for outdoor apiary builds, garden paths, bridge scenes, and cozy woodland spaces."
+        }
+      ]
+    },
+    "honeyglowPoohSticksCritters": {
+      "title": "Disney Dreamlight Valley Honeyglow Woods Pooh Sticks and Critters Guide",
+      "intro": "Honeyglow Woods adds Pooh Sticks as a new villager mini-game and introduces adorable hedgehog critters. These cozy activities support friendship, photo moments, and relaxed exploration around the Gloommeadow bridge.",
+      "items": [
+        {
+          "title": "Pooh Sticks Mini-Game",
+          "category": "Mini-Game",
+          "description": "A new activity inspired by classic Winnie the Pooh stories. Visit a bridge in the Gloommeadow and play with villagers along the river.",
+          "details": [
+            "Location: Gloommeadow bridge",
+            "Participants: four villagers",
+            "Theme: cozy friendship activity"
+          ]
+        },
+        {
+          "title": "How Pooh Sticks Works",
+          "category": "Gameplay",
+          "description": "Each participating villager chooses an object and drops it over the bridge. The object that reaches the downstream finish line first wins.",
+          "details": [
+            "Drop objects from the bridge",
+            "Follow the river race",
+            "First object to finish wins"
+          ]
+        },
+        {
+          "title": "Friendship Progression",
+          "category": "Rewards",
+          "description": "Pooh Sticks gives you a new way to interact with villagers, level up Friendship Levels, and work toward exclusive friendship rewards.",
+          "details": [
+            "Villager interaction",
+            "Friendship Level progress",
+            "Reward progression"
+          ]
+        },
+        {
+          "title": "Hedgehog Critters",
+          "category": "Critters",
+          "description": "Honeyglow Woods introduces a delightful family of colorful hedgehogs that can join you on your adventures.",
+          "details": [
+            "New critter family",
+            "Colorful hedgehogs",
+            "Adventure companion theme"
+          ]
+        },
+        {
+          "title": "Hedgehog Photo Mode Poses",
+          "category": "Photo Mode",
+          "description": "The new hedgehog critters come with their own Photo Mode poses, giving you more options for cozy screenshots and themed scenes.",
+          "details": [
+            "New poses",
+            "Critter photos",
+            "Cozy screenshot content"
+          ]
+        },
+        {
+          "title": "Cozy Friend Activities",
+          "category": "Side Activities",
+          "description": "Honeyglow Woods also highlights gentle moments such as cloud-watching and rainy puddle-jumping as part of its friendship-focused adventure style.",
+          "details": [
+            "Cloud-watching",
+            "Rainy puddle-jumping",
+            "Relaxed exploration"
+          ]
+        }
+      ]
     }
   },
   "faq": {
@@ -281,6 +526,14 @@
       {
         "question": "What is Golden Honey in Disney Dreamlight Valley Honeyglow Woods?",
         "answer": "Golden Honey is the main new resource in Honeyglow Woods, produced by Busy Bees' Houses when they are surrounded by flowers. It powers new recipes, Honeyglow furniture, and decorations across your Valley."
+      },
+      {
+        "question": "What are the new areas in Disney Dreamlight Valley Honeyglow Woods?",
+        "answer": "Disney Dreamlight Valley Honeyglow Woods adds four new areas around the Everoak Tree: Drowsybloom Acre, the Gloommeadow, Braveheart Grove, and the Nectar Apiary. Each area has its own mood, secrets, and restoration goals tied to the Everoak Tree mystery."
+      },
+      {
+        "question": "What is Pooh Sticks in Disney Dreamlight Valley Honeyglow Woods?",
+        "answer": "Pooh Sticks is a new villager mini-game in Disney Dreamlight Valley Honeyglow Woods, played at a bridge in the Gloommeadow. Four villagers drop objects over the bridge, and the first object to reach the downstream finish line wins, building friendship along the way."
       }
     ]
   },
