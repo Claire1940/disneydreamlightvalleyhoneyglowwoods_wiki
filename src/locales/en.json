@@ -10,14 +10,7 @@
       "twitterDescription": "Complete Disney Dreamlight Valley Honeyglow Woods guide: quests, beekeeping, Golden Honey, Pooh Sticks, areas, characters, recipes, and rewards."
     }
   },
-  "nav": {
-    "guides": "Guides",
-    "crafting": "Crafting",
-    "items": "Items",
-    "biomes": "Biomes",
-    "building": "Building",
-    "support": "Support"
-  },
+  "nav": {},
   "common": {
     "home": "Home",
     "more": "More",
