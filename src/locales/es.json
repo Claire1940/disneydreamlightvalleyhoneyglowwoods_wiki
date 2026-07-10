@@ -1,4 +1,15 @@
 {
+  "seo": {
+    "home": {
+      "title": "Guía de Honeyglow Woods - Disney Dreamlight Valley",
+      "description": "Guía completa de Disney Dreamlight Valley Honeyglow Woods que cubre misiones, apicultura, miel dorada, Pooh Sticks, nuevas áreas, personajes, recetas, recompensas y consejos para Winnie the Pooh, Piglet y Eeyore.",
+      "keywords": "Disney Dreamlight Valley Honeyglow Woods, misiones, apicultura, miel dorada, Pooh Sticks, Adventure Pack, Winnie the Pooh",
+      "ogTitle": "Guía de Honeyglow Woods - Disney Dreamlight Valley",
+      "ogDescription": "Guía completa de Disney Dreamlight Valley Honeyglow Woods que cubre misiones, apicultura, miel dorada, Pooh Sticks, nuevas áreas, personajes, recetas, recompensas y consejos.",
+      "twitterTitle": "Guía de Honeyglow Woods - Disney Dreamlight Valley",
+      "twitterDescription": "Guía completa de Disney Dreamlight Valley Honeyglow Woods: misiones, apicultura, miel dorada, Pooh Sticks, áreas, personajes, recetas y recompensas."
+    }
+  },
   "nav": {
     "release": "Lanzamiento",
     "price": "Precio",
@@ -8,5 +19,716 @@
     "characters": "Personajes",
     "quests": "Misiones",
     "items": "Objetos"
+  },
+  "common": {
+    "home": "Inicio",
+    "more": "Más",
+    "playNow": "Jugar en Steam",
+    "switchLanguage": "Cambiar idioma",
+    "switchTheme": "Cambiar tema",
+    "lightMode": "Modo claro",
+    "darkMode": "Modo oscuro",
+    "notFound": "Página no encontrada",
+    "notFoundDescription": "La página que estás buscando no existe.",
+    "backToHome": "Volver al inicio",
+    "relatedArticles": "Artículos relacionados",
+    "readMore": "Leer más",
+    "articlesComingSoon": "Artículos próximamente"
+  },
+  "hero": {
+    "badge": "Acogedor Adventure Pack de simulación de vida de Disney",
+    "title": "Wiki de Disney Dreamlight Valley Honeyglow Woods",
+    "description": "Explora Honeyglow Woods con Winnie the Pooh, Piglet y Eeyore. Domina misiones, apicultura, miel dorada, Pooh Sticks, nuevas áreas, recetas, recompensas y consejos de este acogedor simulador de vida.",
+    "getFreeCodesCTA": "Ver recompensas",
+    "playOnSteamCTA": "Jugar en Steam",
+    "stats": {
+      "stat1": {
+        "value": "8 de julio de 2026",
+        "label": "Fecha de lanzamiento"
+      },
+      "stat2": {
+        "value": "4",
+        "label": "Nuevas áreas"
+      },
+      "stat3": {
+        "value": "3",
+        "label": "Amigos de Pooh"
+      },
+      "stat4": {
+        "value": "2.000",
+        "label": "Piedras Lunares Incluidas"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Jugabilidad de Honeyglow Woods",
+    "description": "Disney Dreamlight Valley: Honeyglow Woods es un acogedor Paquete de Aventuras de simulación de vida centrado en una historia de Winnie the Pooh, Misiones de Amistad, apicultura, elaboración de Miel Dorada y la restauración de cuatro encantadoras áreas nuevas alrededor del Árbol Everoak."
+  },
+  "tools": {
+    "title": "Honeyglow Woods",
+    "titleHighlight": "Guías de la Wiki",
+    "subtitle": "Todo lo que necesitas para Disney Dreamlight Valley: Honeyglow Woods: detalles de lanzamiento, códigos y recompensas, una guía para principiantes, los personajes de Winnie the Pooh, los cuatro nuevos biomas, apicultura y Miel Dorada, recetas y Pooh Sticks.",
+    "cards": [
+      {
+        "icon": "Calendar",
+        "title": "Fecha de Lanzamiento y Precio",
+        "description": "Fecha de lanzamiento, precios del Paquete de Aventuras y Ediciones, Piedras Lunares y plataformas"
+      },
+      {
+        "icon": "Gift",
+        "title": "Códigos y Recompensas",
+        "description": "Códigos de canje, Twitch Drops y recompensas de lanzamiento como el Estilo de Ensueño de Pooh para Días Lluviosos"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Guía para Principiantes",
+        "description": "Primeros pasos, desde el paquete del buzón hasta el portal mágico de Honeyglow Woods"
+      },
+      {
+        "icon": "Users",
+        "title": "Guía de Personajes",
+        "description": "Winnie the Pooh, Ígor y Piglet: hogares, Misiones de Amistad y recompensas"
+      },
+      {
+        "icon": "TreePine",
+        "title": "Biomas y Everoak",
+        "description": "Drowsybloom Acre, Gloommeadow, Braveheart Grove, Nectar Apiary y el Árbol Everoak"
+      },
+      {
+        "icon": "Hexagon",
+        "title": "Apicultura y Miel",
+        "description": "Casas de Abejas Laboriosas, polinización de flores y elaboración con Miel Dorada"
+      },
+      {
+        "icon": "ChefHat",
+        "title": "Recetas y Elaboración",
+        "description": "Recetas con miel, muebles de Honeyglow e ideas de decoración acogedoras"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "Pooh Sticks y Compañeros",
+        "description": "El minijuego del puente de Gloommeadow, los compañeros erizo y actividades secundarias acogedoras"
+      }
+    ]
+  },
+  "modules": {
+    "honeyglowReleaseDatePrice": {
+      "title": "Fecha de Lanzamiento, Precio y Plataformas de Disney Dreamlight Valley Honeyglow Woods",
+      "intro": "Honeyglow Woods es el primer Paquete de Aventuras para Disney Dreamlight Valley. Se lanzó el 8 de julio de 2026 como un complemento de pago que añade una historia temática de Winnie the Pooh, tres nuevos aldeanos, cuatro áreas nuevas, apicultura, elaboración de Miel Dorada, Pooh Sticks y Piedras Lunares según la edición que elijas.",
+      "items": [
+        {
+          "topic": "Fecha de Lanzamiento",
+          "details": "8 de julio de 2026",
+          "note": "Ya disponible en todas las plataformas compatibles de Disney Dreamlight Valley."
+        },
+        {
+          "topic": "Precio del Paquete de Aventuras",
+          "details": "16,99 US$ por separado",
+          "note": "El Paquete de Aventuras por separado requiere el juego base de Disney Dreamlight Valley para jugar."
+        },
+        {
+          "topic": "Piedras Lunares del Paquete de Aventuras",
+          "details": "2.000 Piedras Lunares incluidas",
+          "note": "Los Moonstones se pueden gastar en artículos de la Tienda Premium, como ropa y muebles."
+        },
+        {
+          "topic": "Edición Honeyglow Woods",
+          "details": "Juego base + Adventure Pack Honeyglow Woods",
+          "note": "La mejor opción para los nuevos jugadores que aún no tienen Disney Dreamlight Valley."
+        },
+        {
+          "topic": "Precio de la edición",
+          "details": "Paquete de 49,99 US$",
+          "note": "Las tiendas de las plataformas pueden mostrar precios locales o descuentos de lanzamiento temporales."
+        },
+        {
+          "topic": "Moonstones de la edición",
+          "details": "10.000 Moonstones incluidos",
+          "note": "Este paquete incluye tanto el juego base como el Adventure Pack."
+        },
+        {
+          "topic": "Requisito del juego base",
+          "details": "Requerido para el Adventure Pack independiente",
+          "note": "La Edición Honeyglow Woods incluye el juego base, por lo que los nuevos jugadores no necesitan realizar una compra por separado."
+        },
+        {
+          "topic": "Xbox Game Pass",
+          "details": "No incluido con Xbox Game Pass",
+          "note": "Los suscriptores de Game Pass pueden acceder al juego base y a las actualizaciones gratuitas, pero el Adventure Pack se compra por separado."
+        },
+        {
+          "topic": "Apple Arcade Edition",
+          "details": "Incluido en el lanzamiento sin coste adicional",
+          "note": "Los propietarios de Apple Arcade Edition reciben el contenido de Honeyglow Woods sin necesidad de comprar el Adventure Pack por separado."
+        }
+      ]
+    },
+    "honeyglowCodesAndRewards": {
+      "title": "Códigos, Twitch Drops y recompensas de Disney Dreamlight Valley Honeyglow Woods",
+      "intro": "Las recompensas de lanzamiento de Honeyglow Woods se entregan a través de recompensas oficiales en el buzón del juego, Twitch Drops y el sistema estándar de canje de códigos. Cada recompensa se reclama mediante el método oficial exacto vinculado a su campaña, y los canjes exitosos llegan a tu buzón en el juego.",
+      "rewards": [
+        {
+          "name": "Dream Style de Winnie the Pooh día de lluvia",
+          "type": "Bonificación por compra anticipada",
+          "code": "No se requiere introducir ningún código",
+          "reward": "Dream Style exclusivo de Winnie the Pooh",
+          "claim": "Juega a Honeyglow Woods antes del 22 de julio de 2026",
+          "delivery": "Entregado directamente en el buzón del juego",
+          "availability": "Disponible antes del 22 de julio de 2026"
+        },
+        {
+          "name": "Tendedero de Piglet",
+          "type": "Twitch Drop",
+          "code": "No se requiere introducir ningún código",
+          "reward": "Objeto para el juego: Tendedero de Piglet",
+          "claim": "Vincula tus cuentas de Twitch y Disney Dreamlight Valley, luego ve transmisiones participantes durante 60 minutos",
+          "delivery": "Reclama en el inventario de Twitch Drops y luego canjéalo en el buzón del juego",
+          "availability": "Del 8 de julio de 2026 a las 10:00 AM EDT al 15 de julio de 2026 a las 9:59 AM EDT"
+        },
+        {
+          "name": "Ruta estándar de canje de códigos",
+          "type": "Sistema de canje de códigos",
+          "code": "Introduce solo códigos oficiales (distinguen entre mayúsculas y minúsculas)",
+          "reward": "Objetos del juego o moneda elegibles vinculados al código",
+          "claim": "Abre Ajustes, abre la pestaña Ayuda, introduce el código exactamente y selecciona Canjear",
+          "delivery": "Las recompensas de los códigos canjeados con éxito se envían al buzón del juego",
+          "availability": "Disponible cada vez que Gameloft lanza códigos activos"
+        },
+        {
+          "name": "Soporte para Mac y Apple Arcade",
+          "type": "Nota sobre la plataforma",
+          "code": "La introducción de códigos de canje no está disponible en Mac ni en la edición de Apple Arcade",
+          "reward": "El contenido de los códigos elegibles se gestiona a través de la Atención al Cliente",
+          "claim": "Ponte en contacto con la Atención al Cliente de Gameloft para consultar la elegibilidad del contenido de los códigos en estas plataformas",
+          "delivery": "Se gestiona a través del servicio de soporte cuando es elegible",
+          "availability": "Se aplica a los jugadores de Mac y de la edición de Apple Arcade"
+        }
+      ]
+    },
+    "honeyglowBeginnerGuide": {
+      "title": "Guía para principiantes de Disney Dreamlight Valley: Honeyglow Woods",
+      "intro": "Honeyglow Woods comienza con un misterioso paquete en el buzón y un Tree Sprout que crece hasta convertirse en un portal mágico. Tras cruzarlo, tu primer objetivo es conocer a Winnie the Pooh y empezar a despejar la extraña niebla. Esta guía cubre los primeros pasos jugables, desde acceder al Adventure Pack hasta entrar en el bosque y comenzar la historia inicial.",
+      "steps": [
+        {
+          "title": "Poseer o acceder a Honeyglow Woods",
+          "description": "Compra el Adventure Pack independiente de Honeyglow Woods si ya tienes Disney Dreamlight Valley, o elige la Honeyglow Woods Edition si vas a empezar de cero con el juego base incluido.",
+          "tip": "Los propietarios de la edición de Apple Arcade reciben el contenido de Honeyglow Woods en el lanzamiento sin necesidad de realizar una compra por separado."
+        },
+        {
+          "title": "Revisa el paquete de tu buzón",
+          "description": "La aventura comienza con un misterioso paquete en tu buzón del juego que contiene recuerdos de la infancia y un Tree Sprout.",
+          "tip": "Este paquete abre el camino al portal de Honeyglow Woods."
+        },
+        {
+          "title": "Planta el Tree Sprout",
+          "description": "Planta el Tree Sprout y contempla cómo crece hasta convertirse en un portal de árbol brillante y mágico conectado con Honeyglow Woods.",
+          "tip": "El portal es tu entrada a la nueva zona del Adventure Pack."
+        },
+        {
+          "title": "Coloca el portal mágico",
+          "description": "Coloca el portal de árbol brillante en cualquier lugar de tu Valle o en una Floating Island del juego base.",
+          "tip": "El portal se puede mover o quitar más tarde, lo que te permite ajustar su ubicación a medida que tu Valle crece."
+        },
+        {
+          "title": "Entra en Honeyglow Woods",
+          "description": "Cruza el portal para llegar a Honeyglow Woods, donde una extraña niebla ha separado a los habitantes y ha transformado la tierra.",
+          "tip": "Portales especiales dentro del bosque conectan de vuelta con la tienda de Scrooge McDuck y Chez Remy."
+        },
+        {
+          "title": "Conoce primero a Winnie the Pooh",
+          "description": "Comienza la historia inicial conociendo a Winnie the Pooh, y luego colabora con él para descubrir pistas, despejar la niebla y devolver la calidez al bosque.",
+          "tip": "A medida que progreses, la historia te guiará hacia Eeyore y Piglet."
+        },
+        {
+          "title": "Explora las cuatro nuevas áreas",
+          "description": "Recorre Drowsybloom Acres, Gloommeadow, Braveheart Grove y Nectar Apiary mientras resuelves el misterio del Everoak Tree.",
+          "tip": "Cada área tiene su propia atmósfera, secretos y objetivos de restauración."
+        },
+        {
+          "title": "Comienza con la apicultura y la elaboración de Golden Honey",
+          "description": "Restaura las Busy Bees' Houses, coloca flores cerca, recolecta Golden Honey y úsala para nuevas recetas, muebles y decoraciones.",
+          "tip": "Las Busy Bees' Houses se pueden trasladar a otros biomas, incluido el Valle del juego base."
+        }
+      ]
+    },
+    "honeyglowCharactersGuide": {
+      "title": "Guía de personajes de Disney Dreamlight Valley: Honeyglow Woods",
+      "intro": "Honeyglow Woods añade a tres icónicos aldeanos de Winnie the Pooh: Winnie the Pooh, Eeyore y Piglet. Cada uno llega con un hogar, Friendship Quests y Friendship Rewards; desbloquearlos expandirá tu Valle con nuevos hogares de personajes, recompensas temáticas y momentos de la historia relacionados con la niebla, la miel y el Everoak Tree.",
+      "characters": [
+        {
+          "name": "Winnie the Pooh",
+          "role": "Primer compañero en la historia de Honeyglow Woods",
+          "story": "Pooh te ayuda a empezar a descubrir pistas, despejar la extraña niebla y devolver la calidez al bosque.",
+          "progression": "Invita a Pooh de vuelta al Valle con su propia casa, misiones de amistad y recompensas de amistad.",
+          "whyUnlock": "Pooh es el punto de entrada para la historia del Adventure Pack y el personaje más cercano al misterio inicial de Honeyglow Woods.",
+          "moments": "El escondite, observación de nubes, Pooh Sticks y la bonificación por compra anticipada del estilo de sueño de Winnie the Pooh para días lluviosos."
+        },
+        {
+          "name": "Eeyore",
+          "role": "Segundo gran amigo a encontrar después de Pooh",
+          "story": "Eeyore está separado en los Woods y necesita ayuda para buscar su cola perdida mientras la tierra sigue sumida en la penumbra y la niebla.",
+          "progression": "Invita a Eeyore de vuelta al Valle con su propia casa, misiones de amistad y recompensas de amistad.",
+          "whyUnlock": "Eeyore profundiza la historia y conecta fuertemente con el ambiente calmado y reflexivo de Gloommeadow.",
+          "moments": "Momentos de la historia de la cola perdida, momentos tranquilos de amistad y progreso a través de las áreas cubiertas por la niebla."
+        },
+        {
+          "name": "Piglet",
+          "role": "Último personaje principal de Winnie the Pooh en la ruta de desbloqueo",
+          "story": "La historia de Piglet se centra en encontrar el valor mientras los Woods se restauran poco a poco.",
+          "progression": "Invita a Piglet de vuelta al Valle con su propia casa, misiones de amistad y recompensas de amistad.",
+          "whyUnlock": "Piglet completa el trío principal de Winnie the Pooh para Honeyglow Woods y añade más progreso de amistad y recompensas temáticas.",
+          "moments": "Misiones centradas en el valor, actividades de amistad y el tema de recompensa de Twitch Drop de tendedero de Piglet."
+        }
+      ]
+    },
+    "honeyglowBiomesEveroakGuide": {
+      "title": "Guía de biomas y del Everoak Tree de Disney Dreamlight Valley Honeyglow Woods",
+      "intro": "Honeyglow Woods se abre alrededor del misterioso Everoak Tree, con cuatro nuevas áreas para explorar y restaurar: Drowsybloom Acre, Gloommeadow, Braveheart Grove y Nectar Apiary. Cada área añade su propia atmósfera, puzles, secretos y objetivos de restauración a medida que despejas la niebla y devuelves la calidez a los Woods.",
+      "items": [
+        {
+          "heading": "Portal del árbol mágico",
+          "content": "La aventura comienza con un Tree Sprout de un misterioso paquete del buzón. Una vez plantado, crece hasta convertirse en un portal brillante que puede colocarse en el Valle o en las islas flotantes del juego base, y luego moverse o eliminarse.",
+          "highlights": [
+            "Inicio con el Tree Sprout",
+            "Portal colocable",
+            "Compatible con el Valle e islas flotantes"
+          ]
+        },
+        {
+          "heading": "Drowsybloom Acre",
+          "content": "Drowsybloom Acre es una de las cuatro áreas principales de Honeyglow Woods. Es una pradera llena de flores que funciona como una zona de exploración clave al inicio mientras empiezas a restaurar la calidez en los Woods.",
+          "highlights": [
+            "Pradera llena de flores",
+            "Zona de exploración inicial",
+            "Vinculado al misterio del Everoak Tree"
+          ]
+        },
+        {
+          "heading": "Gloommeadow",
+          "content": "Gloommeadow es un área brumosa y pantanosa donde puedes encontrar un puente de Honeyglow y jugar a Pooh Sticks con los aldeanos. Conecta la exploración con actividades secundarias acogedoras y el progreso de amistad.",
+          "highlights": [
+            "Entorno de pantano brumoso",
+            "Puente de Pooh Sticks",
+            "Actividad de amistad"
+          ]
+        },
+        {
+          "heading": "Braveheart Grove",
+          "content": "Braveheart Grove es un área boscosa más profunda escondida tras la niebla. Porta el tema del valor de la aventura y el proceso de adentrarse más en los Woods con Pooh, Eeyore y Piglet.",
+          "highlights": [
+            "Arboleda en flor",
+            "Exploración en la niebla",
+            "Progreso de la historia"
+          ]
+        },
+        {
+          "heading": "Nectar Apiary",
+          "content": "Nectar Apiary es el área oculta centrada en la miel llena de panales gigantes. Se encuentra cerca de la fuente de los problemas de los Woods y conecta estrechamente con la miel dorada y la apicultura.",
+          "highlights": [
+            "Apiario oculto",
+            "Panales gigantes",
+            "Misterio de la miel"
+          ]
+        },
+        {
+          "heading": "Misterio del Everoak Tree",
+          "content": "El Everoak Tree se encuentra en el centro de Honeyglow Woods. Restauras las áreas circundantes, resuelves acertijos dentro del árbol misterioso, sanas la tierra y descubres qué ha ido mal en los Woods.",
+          "highlights": [
+            "Punto de referencia central",
+            "Enfoque en los acertijos",
+            "Objetivo de restauración"
+          ]
+        },
+        {
+          "heading": "Portales útiles",
+          "content": "Honeyglow Woods incluye portales especiales que te llevan directamente a Scrooge McDuck's Store y Chez Remy, facilitando los ciclos de compras, cocina y decoración durante la aventura.",
+          "highlights": [
+            "Portal a Scrooge McDuck's Store",
+            "Portal a Chez Remy",
+            "Ciclo de recursos más rápido"
+          ]
+        }
+      ]
+    },
+    "honeyglowBeekeepingGoldenHoney": {
+      "title": "Guía de beekeeping y Golden Honey de Disney Dreamlight Valley Honeyglow Woods",
+      "intro": "El beekeeping es el nuevo sistema de recursos principal en Honeyglow Woods. Colocas flores alrededor de las Busy Bees' Houses, dejas que las abejas las polinizen, generas Golden Honey y luego usas esa miel para cocinar, fabricar y decorar por todo el Valley.",
+      "steps": [
+        {
+          "title": "Desbloquea el beekeeping a través de Honeyglow Woods",
+          "description": "Progresa en la aventura de Honeyglow Woods hasta que las Busy Bees' Houses formen parte del nuevo ciclo de beekeeping.",
+          "result": "El beekeeping pasa a estar disponible como una mecánica de Honeyglow Woods."
+        },
+        {
+          "title": "Coloca una Busy Bees' House",
+          "description": "Instala una Busy Bees' House en un área utilizable. Estas casas son el núcleo central para generar Golden Honey.",
+          "result": "La casa se convierte en el punto de recolección para la producción de miel."
+        },
+        {
+          "title": "Coloca flores alrededor de la casa",
+          "description": "Dispón flores alrededor de la Busy Bees' House para que las abejas puedan polinizarlas y ayudar a producir miel dentro de la casa.",
+          "result": "Las flores cercanas impulsan el ciclo de producción de miel."
+        },
+        {
+          "title": "Genera Golden Honey",
+          "description": "Una Busy Bees' House con el soporte adecuado produce Golden Honey, el ingrediente principal para las recetas, muebles y decoraciones de Honeyglow.",
+          "result": "El Golden Honey se convierte en un recurso que se puede fabricar y cocinar."
+        },
+        {
+          "title": "Potencia el crecimiento de las flores cercanas",
+          "description": "Una Busy Bees' House totalmente polinizada aumenta la velocidad de crecimiento de otras flores cercanas.",
+          "result": "El cultivo de flores se vuelve más rápido con una buena instalación de beekeeping."
+        },
+        {
+          "title": "Mueve las casas a otros biomas",
+          "description": "Las Busy Bees' Houses se pueden mover a otros biomas, incluyendo el Valley del juego base.",
+          "result": "Puedes llevar el beekeeping de Honeyglow a tus espacios principales de decoración y cultivo."
+        }
+      ]
+    },
+    "honeyglowRecipesCrafting": {
+      "title": "Guía de recetas y fabricación de Disney Dreamlight Valley Honeyglow Woods",
+      "intro": "El Golden Honey impulsa un nuevo conjunto de recetas, muebles y decoraciones basados en miel en Honeyglow Woods. Usa este centro como una descripción general rápida de qué cocinar, fabricar y decorar después de comenzar con el beekeeping.",
+      "items": [
+        {
+          "title": "Golden Honey",
+          "category": "Recurso principal",
+          "description": "El Golden Honey se genera a través de la mecánica de beekeeping y se usa en la cocina, fabricación y decoración de Honeyglow.",
+          "use": "Ingrediente principal y material de fabricación para el contenido temático de Honeyglow."
+        },
+        {
+          "title": "Warm Milk & Honey",
+          "category": "Receta",
+          "description": "Una receta a base de miel destacada para el Adventure Pack de Honeyglow Woods.",
+          "use": "Un alimento acogedor tipo bebida para tu colección de recetas."
+        },
+        {
+          "title": "Barra Honeycrunch",
+          "category": "Receta",
+          "description": "Un dulce alimento temático de miel incluido entre los nuevos ejemplos de recetas de Honeyglow Woods.",
+          "use": "Una gran tarjeta de receta de snack o postre."
+        },
+        {
+          "title": "Pastel de cumpleaños de Pooh",
+          "category": "Receta",
+          "description": "Una receta de pastel temática de Winnie the Pooh conectada al set de cocina de Honeyglow Woods.",
+          "use": "Una receta destacada temática de personajes."
+        },
+        {
+          "title": "Lámpara de tarro de miel",
+          "category": "Muebles",
+          "description": "Un mueble de Honeyglow diseñado en torno al aspecto clásico del tarro de miel.",
+          "use": "Ideal para habitaciones interiores acogedoras, zonas de Winnie the Pooh y diseños con iluminación cálida."
+        },
+        {
+          "title": "Alfombra Honeyleaf acogedora",
+          "category": "Muebles",
+          "description": "Una decoración de Honeyglow con una temática suave inspirada en la naturaleza.",
+          "use": "Perfecto para habitaciones de estilo cottagecore, rincones boscosos y hogares temáticos de Honeyglow."
+        },
+        {
+          "title": "Set de muebles de Honeyglow",
+          "category": "Set de muebles",
+          "description": "Una colección de muebles más amplia que se desbloquea a través de la creación con Golden Honey y el progreso en Honeyglow Woods.",
+          "use": "El set de decoración principal para diseños inspirados en la miel, el bosque y el Bosque de los Cien Acres."
+        },
+        {
+          "title": "Decoraciones temáticas de miel",
+          "category": "Decoración",
+          "description": "Honeyglow Woods incluye nuevos artículos decorativos inspirados en la miel, las flores, las abejas y el brillo dorado del bosque.",
+          "use": "Ideal para diseños de apiarios al aire libre, senderos de jardín, escenas de puentes y espacios boscosos acogedores."
+        }
+      ]
+    },
+    "honeyglowPoohSticksCritters": {
+      "title": "Guía de Pooh Sticks y criaturas de Disney Dreamlight Valley: Honeyglow Woods",
+      "intro": "Honeyglow Woods añade Pooh Sticks como un nuevo minijuego de aldeanos e introduce adorables criaturas erizo. Estas acogedoras actividades fomentan la amistad, los momentos fotográficos y la exploración relajada alrededor del puente de Gloommeadow.",
+      "items": [
+        {
+          "title": "Minijuego de Pooh Sticks",
+          "category": "Minijuego",
+          "description": "Una nueva actividad inspirada en las historias clásicas de Winnie the Pooh. Visita un puente en Gloommeadow y juega con los aldeanos a lo largo del río.",
+          "details": [
+            "Ubicación: puente de Gloommeadow",
+            "Participantes: cuatro aldeanos",
+            "Tema: actividad de amistad acogedora"
+          ]
+        },
+        {
+          "title": "Cómo funciona Pooh Sticks",
+          "category": "Jugabilidad",
+          "description": "Cada aldeano participante elige un objeto y lo deja caer desde el puente. El objeto que llegue primero a la línea de meta río abajo gana.",
+          "details": [
+            "Dejar caer objetos desde el puente",
+            "Seguir la carrera por el río",
+            "El primer objeto en llegar a la meta gana"
+          ]
+        },
+        {
+          "title": "Progresión de amistad",
+          "category": "Recompensas",
+          "description": "Pooh Sticks te ofrece una nueva forma de interactuar con los aldeanos, subir de nivel de amistad y conseguir recompensas de amistad exclusivas.",
+          "details": [
+            "Interacción con los aldeanos",
+            "Progreso del nivel de amistad",
+            "Progresión de recompensas"
+          ]
+        },
+        {
+          "title": "Compañeros erizos",
+          "category": "Compañeros",
+          "description": "Honeyglow Woods presenta una encantadora familia de erizos de colores que pueden acompañarte en tus aventuras.",
+          "details": [
+            "Nueva familia de compañeros",
+            "Erizos de colores",
+            "Temática de compañeros de aventura"
+          ]
+        },
+        {
+          "title": "Poses del Modo Foto con erizos",
+          "category": "Modo Foto",
+          "description": "Los nuevos compañeros erizos vienen con sus propias poses para el Modo Foto, ofreciéndote más opciones para capturas de pantalla acogedoras y escenas temáticas.",
+          "details": [
+            "Nuevas poses",
+            "Fotos de compañeros",
+            "Contenido para capturas de pantalla acogedoras"
+          ]
+        },
+        {
+          "title": "Actividades acogedoras con amigos",
+          "category": "Actividades secundarias",
+          "description": "Honeyglow Woods también destaca momentos tranquilos, como observar las nubes y saltar en charcos de lluvia, como parte de su estilo de aventura centrado en la amistad.",
+          "details": [
+            "Observar las nubes",
+            "Saltar en charcos de lluvia",
+            "Exploración relajada"
+          ]
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Disney Dreamlight Valley: Honeyglow Woods",
+    "titleHighlight": "FAQ",
+    "subtitle": "Todo lo que necesitas saber sobre Disney Dreamlight Valley: Honeyglow Woods.",
+    "questions": [
+      {
+        "question": "¿Qué es Disney Dreamlight Valley: Honeyglow Woods?",
+        "answer": "Disney Dreamlight Valley: Honeyglow Woods es el primer Paquete de aventuras de Disney Dreamlight Valley, lanzado el 8 de julio de 2026. Añade una historia temática de Winnie the Pooh con Winnie the Pooh, Ígor y Piglet, cuatro áreas nuevas, apicultura, fabricación de miel dorada y el minijuego Pooh Sticks."
+      },
+      {
+        "question": "¿Cuánto cuesta Disney Dreamlight Valley: Honeyglow Woods?",
+        "answer": "El Paquete de aventuras Honeyglow Woods por separado cuesta 16,99 USD y requiere el juego base. El lote Honeyglow Woods Edition, que incluye el juego base y el Paquete de aventuras, cuesta 49,99 USD."
+      },
+      {
+        "question": "¿Necesito el juego base para jugar a Honeyglow Woods?",
+        "answer": "El Paquete de aventuras Honeyglow Woods por separado requiere el juego base de Disney Dreamlight Valley. Los nuevos jugadores pueden comprar la Honeyglow Woods Edition, que incluye tanto el juego base como el Paquete de aventuras, por lo que no es necesario comprar el juego base por separado."
+      },
+      {
+        "question": "¿Cómo canjeo códigos en Disney Dreamlight Valley: Honeyglow Woods?",
+        "answer": "Abre Disney Dreamlight Valley, ve a Ajustes, abre la pestaña Ayuda, introduce el código oficial exacto y selecciona Canjear. Los canjes realizados con éxito se enviarán a tu buzón del juego. La introducción de códigos de canje no está disponible en Mac ni en Apple Arcade Edition."
+      },
+      {
+        "question": "¿Quiénes son los nuevos personajes de Honeyglow Woods?",
+        "answer": "Honeyglow Woods añade tres aldeanos de Winnie the Pooh (Winnie the Pooh, Ígor y Piglet), cada uno con su propio hogar, misiones de amistad y recompensas de amistad que puedes llevar de vuelta a tu Valle."
+      },
+      {
+        "question": "¿Qué es la miel dorada en Disney Dreamlight Valley: Honeyglow Woods?",
+        "answer": "La miel dorada es el nuevo recurso principal en Honeyglow Woods, producida por las Casas de las abejas laboriosas cuando están rodeadas de flores. Se utiliza para nuevas recetas, muebles de Honeyglow y decoraciones en todo tu Valle."
+      },
+      {
+        "question": "¿Cuáles son las nuevas áreas de Disney Dreamlight Valley: Honeyglow Woods?",
+        "answer": "Disney Dreamlight Valley Honeyglow Woods añade cuatro áreas nuevas alrededor del Everoak Tree: Drowsybloom Acre, Gloommeadow, Braveheart Grove y Nectar Apiary. Cada área tiene su propio ambiente, secretos y objetivos de restauración vinculados al misterio del Everoak Tree."
+      },
+      {
+        "question": "¿Qué es Pooh Sticks en Disney Dreamlight Valley Honeyglow Woods?",
+        "answer": "Pooh Sticks es un nuevo minijuego de aldeanos en Disney Dreamlight Valley Honeyglow Woods, que se juega en un puente en Gloommeadow. Cuatro aldeanos dejan caer objetos desde el puente, y el primer objeto en llegar a la línea de meta río abajo gana, aumentando la amistad en el proceso."
+      }
+    ]
+  },
+  "cta": {
+    "title": "¿Listo para explorar Honeyglow Woods?",
+    "description": "¡Únete a la comunidad de Disney Dreamlight Valley en Discord para obtener guías, actualizaciones y debates sobre Honeyglow Woods!",
+    "joinCommunity": "Únete a Discord",
+    "joinGame": "Jugar en Steam"
+  },
+  "footer": {
+    "title": "Wiki de Honeyglow Woods",
+    "description": "Tu centro de recursos completo para las guías de misiones, apicultura, Golden Honey, Pooh Sticks, personajes, recetas y recompensas de Disney Dreamlight Valley: Honeyglow Woods.",
+    "resources": "Recursos",
+    "community": "Comunidad",
+    "legal": "Legal",
+    "discord": "Discord",
+    "twitter": "X / Twitter",
+    "steamCommunity": "Comunidad de Steam",
+    "steamStore": "Tienda de Steam",
+    "about": "Acerca de",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de servicio",
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 Honeyglow Woods Wiki. No afiliado con Disney ni Gameloft.",
+    "disclaimer": "Sitio web de recursos no oficial creado por fans."
+  },
+  "pages": {
+    "release": {
+      "title": "Lanzamiento de Disney Dreamlight Valley Honeyglow Woods",
+      "description": "Fecha de lanzamiento oficial de Disney Dreamlight Valley Honeyglow Woods, horarios de lanzamiento en las distintas regiones y detalles del primer día para el Adventure Pack.",
+      "metaTitle": "Fecha de lanzamiento y horarios de Disney Dreamlight Valley Honeyglow Woods",
+      "metaDescription": "La fecha de lanzamiento y los detalles de estreno de Disney Dreamlight Valley Honeyglow Woods. Descubre cuándo se lanzó el Adventure Pack en cada plataforma y región.",
+      "categoryLabel": "INFORMACIÓN DE LANZAMIENTO",
+      "whatIs": "¿Qué es el lanzamiento de Honeyglow Woods?",
+      "whatIsDescription": "El lanzamiento de Disney Dreamlight Valley Honeyglow Woods marca el estreno del primer Adventure Pack importante del juego, que traerá nuevo contenido de historia, personajes y biomas a los jugadores de todo el mundo el 8 de julio de 2026.",
+      "why": "¿Por qué seguir los detalles del lanzamiento?",
+      "whySteps": {
+        "step1Title": "Fecha de lanzamiento confirmada",
+        "step1Description": "Consigue la fecha de lanzamiento oficial y los horarios de Disney Dreamlight Valley Honeyglow Woods para saber exactamente cuándo se estrena el Adventure Pack.",
+        "step2Title": "Disponibilidad de plataformas",
+        "step2Description": "Mira qué plataformas recibieron la expansión en su lanzamiento y cuándo desbloqueó cada tienda el nuevo contenido.",
+        "step3Title": "Contenido del primer día",
+        "step3Description": "Revisa los personajes, biomas y características que se incluyeron con el lanzamiento para que puedas planificar tu primera sesión."
+      },
+      "featured": "Destacado y esencial",
+      "all": "Todos los artículos de lanzamiento"
+    },
+    "price": {
+      "title": "Precio de Disney Dreamlight Valley Honeyglow Woods",
+      "description": "Precio, ediciones y opciones de paquetes de Disney Dreamlight Valley Honeyglow Woods. Compara el Adventure Pack y decide qué versión es la adecuada para ti.",
+      "metaTitle": "Guía de precios y ediciones de Disney Dreamlight Valley: Honeyglow Woods",
+      "metaDescription": "Encuentra el precio de Disney Dreamlight Valley: Honeyglow Woods en sus distintas ediciones y paquetes. Compara el Adventure Pack, los requisitos del juego base y qué versión ofrece la mejor relación calidad-precio.",
+      "categoryLabel": "PRECIOS Y EDICIONES",
+      "whatIs": "¿Qué determina el precio de Honeyglow Woods?",
+      "whatIsDescription": "El precio de Disney Dreamlight Valley: Honeyglow Woods cubre el complemento Adventure Pack y la edición Honeyglow Woods Edition, con opciones según si ya posees el juego base.",
+      "why": "¿Por qué comparar las ediciones antes de comprar?",
+      "whySteps": {
+        "step1Title": "Independiente vs. paquete",
+        "step1Description": "Compara el Adventure Pack por separado frente al paquete completo de Honeyglow Woods Edition para realizar la compra adecuada.",
+        "step2Title": "Requisito del juego base",
+        "step2Description": "Comprueba si el Adventure Pack requiere el juego base Disney Dreamlight Valley y cómo esto afecta al coste total.",
+        "step3Title": "Valor incluido",
+        "step3Description": "Revisa las Moonstones incluidas y los artículos de bonificación para saber qué incluye cada edición por su precio."
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos de precios"
+    },
+    "platform": {
+      "title": "Plataformas de Disney Dreamlight Valley: Honeyglow Woods",
+      "description": "Compatibilidad de plataforma para Disney Dreamlight Valley: Honeyglow Woods, incluyendo detalles de reserva en Steam, Xbox, PlayStation, Nintendo Switch y Switch 2.",
+      "metaTitle": "Plataformas de Disney Dreamlight Valley: Honeyglow Woods - Steam, Xbox, Switch",
+      "metaDescription": "Disponibilidad de plataforma y detalles de reserva de Disney Dreamlight Valley: Honeyglow Woods para Steam, Xbox, PlayStation y Nintendo Switch. Encuentra tu plataforma y empieza a jugar.",
+      "categoryLabel": "PLATAFORMAS",
+      "whatIs": "¿Qué plataformas son compatibles con Honeyglow Woods?",
+      "whatIsDescription": "Disney Dreamlight Valley: Honeyglow Woods está disponible en PC, Xbox, PlayStation y Nintendo Switch, con detalles de reserva y específicos de cada plataforma para cada tienda.",
+      "why": "¿Por qué comprobar primero los detalles de la plataforma?",
+      "whySteps": {
+        "step1Title": "Elige tu tienda",
+        "step1Description": "Encuentra Disney Dreamlight Valley: Honeyglow Woods en Steam, Xbox, PlayStation o Nintendo Switch y confirma la disponibilidad para tu dispositivo.",
+        "step2Title": "Juego multiplataforma",
+        "step2Description": "Entiende cómo se transfieren las partidas guardadas y el progreso entre plataformas para que puedas cambiar de dispositivo sin perder tu valle.",
+        "step3Title": "Bonificaciones por reserva",
+        "step3Description": "Revisa las recompensas de reserva por plataforma y las diferencias entre ediciones antes de que el Adventure Pack se desbloquee en tu sistema."
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos de plataformas"
+    },
+    "guide": {
+      "title": "Guía de Disney Dreamlight Valley: Honeyglow Woods",
+      "description": "Guía completa de Disney Dreamlight Valley: Honeyglow Woods con consejos para principiantes, tutorial paso a paso, lista de preparación y consejos de almacenamiento para jugadores nuevos y recurrentes.",
+      "metaTitle": "Guía completa y tutorial de Disney Dreamlight Valley: Honeyglow Woods",
+      "metaDescription": "Domina Disney Dreamlight Valley: Honeyglow Woods con nuestra guía completa. Tutoriales para principiantes, consejos de preparación, consejos de almacenamiento y todo lo que necesitas saber antes de empezar.",
+      "categoryLabel": "GUÍAS",
+      "whatIs": "¿Qué incluye la guía de Honeyglow Woods?",
+      "whatIsDescription": "La guía de Disney Dreamlight Valley: Honeyglow Woods cubre tutoriales para principiantes, progresión de la historia, listas de preparación y consejos de almacenamiento para ayudarte a aprovechar al máximo el Adventure Pack.",
+      "why": "¿Por qué usar una guía?",
+      "whySteps": {
+        "step1Title": "Tutorial para principiantes",
+        "step1Description": "Sigue un tutorial paso a paso de Disney Dreamlight Valley: Honeyglow Woods que guía a los nuevos jugadores a través de las horas iniciales de la expansión.",
+        "step2Title": "Lista de preparación",
+        "step2Description": "Usa la lista de preparación para tener listos tu valle, inventario y herramientas antes de adentrarte en los nuevos biomas.",
+        "step3Title": "Almacenamiento y progresión",
+        "step3Description": "Aprende consejos de almacenamiento y progresión para gestionar los nuevos materiales, recetas y objetos de misión sin quedarte sin espacio."
+      },
+      "featured": "Destacado y esencial",
+      "all": "Todas las guías"
+    },
+    "update": {
+      "title": "Actualizaciones de Disney Dreamlight Valley Honeyglow Woods",
+      "description": "Notas de parche y actualización de Disney Dreamlight Valley Honeyglow Woods, incluyendo la actualización de julio, los Twitch Drops y los últimos detalles del tráiler de lanzamiento.",
+      "metaTitle": "Actualizaciones y notas de parche de Disney Dreamlight Valley Honeyglow Woods",
+      "metaDescription": "Mantente al día con las actualizaciones de Disney Dreamlight Valley Honeyglow Woods. Lee las últimas notas de parche, los cambios de la actualización de julio, los Twitch Drops y lo más destacado del tráiler de lanzamiento.",
+      "categoryLabel": "ACTUALIZACIONES",
+      "whatIs": "¿Qué son las actualizaciones de Honeyglow Woods?",
+      "whatIsDescription": "Las actualizaciones de Disney Dreamlight Valley Honeyglow Woods ofrecen notas de parche, correcciones de jugabilidad, eventos de Twitch Drops y nuevo contenido en tráileres que expanden y perfeccionan el Adventure Pack con el tiempo.",
+      "why": "¿Por qué seguir las actualizaciones?",
+      "whySteps": {
+        "step1Title": "Notas de parche y correcciones",
+        "step1Description": "Lee las últimas notas de parche de Disney Dreamlight Valley Honeyglow Woods para ver las correcciones de errores, los cambios de equilibrio y las mejoras de calidad de vida.",
+        "step2Title": "Recompensas de Twitch Drops",
+        "step2Description": "Vincula tu cuenta durante los periodos de Twitch Drops para reclamar recompensas cosméticas y de juego gratuitas para la expansión.",
+        "step3Title": "Nuevo contenido y tráileres",
+        "step3Description": "No te pierdas los tráileres de actualización y las revelaciones de nuevo contenido para estar al tanto de cada función o evento añadido a Honeyglow Woods."
+      },
+      "featured": "Destacado y esencial",
+      "all": "Todos los artículos de actualizaciones"
+    },
+    "characters": {
+      "title": "Personajes de Disney Dreamlight Valley Honeyglow Woods",
+      "description": "Personajes de Disney Dreamlight Valley Honeyglow Woods, incluyendo a Winnie the Pooh, Piglet, Eeyore y el Hedgehog Pack. Requisitos de desbloqueo y recompensas de amistad.",
+      "metaTitle": "Personajes de Disney Dreamlight Valley Honeyglow Woods: Pooh, Piglet, Eeyore",
+      "metaDescription": "Conoce a los personajes de Disney Dreamlight Valley Honeyglow Woods. Aprende cómo desbloquear a Winnie the Pooh, Piglet, Eeyore y el Hedgehog Pack, además de las recompensas de sus misiones de amistad.",
+      "categoryLabel": "PERSONAJES",
+      "whatIs": "¿Quiénes son los personajes de Honeyglow Woods?",
+      "whatIsDescription": "Disney Dreamlight Valley Honeyglow Woods introduce a Winnie the Pooh, Piglet, Eeyore y el Hedgehog Pack como nuevos personajes de amistad, cada uno con líneas de misión y recompensas únicas.",
+      "why": "¿Por qué entablar amistad con cada personaje?",
+      "whySteps": {
+        "step1Title": "Requisitos de desbloqueo",
+        "step1Description": "Descubre cómo desbloquear a Winnie the Pooh, Piglet, Eeyore y el Hedgehog Pack a medida que avanzas en la historia de Disney Dreamlight Valley Honeyglow Woods.",
+        "step2Title": "Misiones de amistad",
+        "step2Description": "Completa la línea de misiones de amistad de cada personaje para estrechar vuestro vínculo y desbloquear sus momentos de historia únicos.",
+        "step3Title": "Recompensas de personajes",
+        "step3Description": "Consigue objetos exclusivos, cosméticos y bonificaciones a medida que aumentas el nivel de amistad con los nuevos personajes de Honeyglow Woods."
+      },
+      "featured": "Destacado y esencial",
+      "all": "Todos los artículos de personajes"
+    },
+    "quests": {
+      "title": "Misiones de Disney Dreamlight Valley Honeyglow Woods",
+      "description": "Guía de misiones de Disney Dreamlight Valley Honeyglow Woods para los capítulos 1, 2 y 3, además de la guía de Pooh Sticks y el adelanto del final de la historia.",
+      "metaTitle": "Guía de misiones y capítulos de Disney Dreamlight Valley Honeyglow Woods",
+      "metaDescription": "Completa las misiones de Disney Dreamlight Valley Honeyglow Woods con nuestra guía paso a paso por capítulos. Cubre los capítulos 1 al 3, el minijuego de Pooh Sticks y el adelanto del final.",
+      "categoryLabel": "MISIONES",
+      "whatIs": "¿Cuáles son las misiones de Honeyglow Woods?",
+      "whatIsDescription": "Las misiones de Disney Dreamlight Valley Honeyglow Woods abarcan una historia de tres capítulos, el minijuego de Pooh Sticks y un adelanto final que prepara el próximo misterio del valle.",
+      "why": "¿Por qué seguir una guía de misiones?",
+      "whySteps": {
+        "step1Title": "Orden de los capítulos",
+        "step1Description": "Sigue la historia de Disney Dreamlight Valley Honeyglow Woods capítulo a capítulo para no perderte ningún paso de las misiones ni ningún desbloqueo.",
+        "step2Title": "Minijuego de Pooh Sticks",
+        "step2Description": "Domina el minijuego de Pooh Sticks con las reglas, la ubicación y consejos para ganar en el puente de Gloommeadow.",
+        "step3Title": "Adelanto del final",
+        "step3Description": "Desentraña el adelanto del final y comprende lo que sugieren los últimos momentos para el futuro de Honeyglow Woods."
+      },
+      "featured": "Destacado y esencial",
+      "all": "Todos los artículos de misiones"
+    },
+    "items": {
+      "title": "Objetos de Disney Dreamlight Valley Honeyglow Woods",
+      "description": "Objetos y recetas de Disney Dreamlight Valley Honeyglow Woods, que incluyen recetas con miel dorada, ingredientes de cocina y materiales de creación introducidos en la expansión.",
+      "metaTitle": "Objetos y recetas de Disney Dreamlight Valley Honeyglow Woods",
+      "metaDescription": "Explora los objetos y recetas de Disney Dreamlight Valley Honeyglow Woods. Encuentra recetas de miel dorada, ingredientes de cocina y materiales de creación de los nuevos biomas.",
+      "categoryLabel": "OBJETOS Y RECETAS",
+      "whatIs": "¿Qué objetos y recetas son nuevos?",
+      "whatIsDescription": "Los objetos de Disney Dreamlight Valley Honeyglow Woods incluyen nuevas recetas, platos con miel dorada, ingredientes de cocina y materiales de creación recolectados en los cuatro nuevos biomas.",
+      "why": "¿Por qué coleccionar todas las recetas?",
+      "whySteps": {
+        "step1Title": "Recetas de miel dorada",
+        "step1Description": "Descubre recetas de miel dorada y aprende a convertir el ingrediente estrella de la expansión en platos valiosos.",
+        "step2Title": "Fuentes de ingredientes",
+        "step2Description": "Encuentra dónde aparece cada ingrediente de cocina en los nuevos biomas de Honeyglow Woods para que puedas recolectar de manera eficiente.",
+        "step3Title": "Materiales de creación",
+        "step3Description": "Colecciona los materiales de creación introducidos en Disney Dreamlight Valley Honeyglow Woods para desbloquear nuevos muebles, herramientas y decoraciones."
+      },
+      "featured": "Destacado y esencial",
+      "all": "Todos los artículos de objetos"
+    }
   }
 }

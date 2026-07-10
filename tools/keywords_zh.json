@@ -1,46 +1,71 @@
 {
   "categories": [
     {
-      "category": "指南",
+      "category": "发布",
       "keywords": [
-        "lucid blocks 指南"
+        "蜂光森林 发售日期",
+        "迪士尼梦幻星谷 蜂光森林 上线",
+        "蜂光森林 冒险包 发布"
       ]
     },
     {
-      "category": "合成",
+      "category": "价格",
       "keywords": [
-        "lucid blocks 合成配方",
-        "lucid blocks 神化系统"
+        "蜂光森林 价格",
+        "蜂光森林 冒险包 费用",
+        "蜂光森林 版本 月光石"
+      ]
+    },
+    {
+      "category": "平台",
+      "keywords": [
+        "蜂光森林 steam",
+        "蜂光森林 xbox",
+        "蜂光森林 playstation",
+        "蜂光森林 任天堂switch",
+        "蜂光森林 apple arcade"
+      ]
+    },
+    {
+      "category": "攻略",
+      "keywords": [
+        "蜂光森林 新手攻略",
+        "蜂光森林 流程通关",
+        "蜂光森林 完整指南"
+      ]
+    },
+    {
+      "category": "更新",
+      "keywords": [
+        "蜂光森林 更新",
+        "蜂光森林 补丁说明",
+        "蜂光森林 twitch掉宝"
+      ]
+    },
+    {
+      "category": "角色",
+      "keywords": [
+        "蜂光森林 小熊维尼",
+        "蜂光森林 小猪",
+        "蜂光森林 屹耳",
+        "蜂光森林 角色"
+      ]
+    },
+    {
+      "category": "任务",
+      "keywords": [
+        "蜂光森林 任务",
+        "蜂光森林 友谊任务",
+        "蜂光森林 维尼棍子游戏"
       ]
     },
     {
       "category": "物品",
       "keywords": [
-        "lucid blocks 信仰法杖",
-        "lucid blocks 蜜蜂滑翔器",
-        "lucid blocks 箱子",
-        "lucid blocks 锇"
-      ]
-    },
-    {
-      "category": "生物群系",
-      "keywords": [
-        "lucid blocks 提亚玛纳地脉"
-      ]
-    },
-    {
-      "category": "建造",
-      "keywords": [
-        "lucid blocks 感质空间"
-      ]
-    },
-    {
-      "category": "技术支持",
-      "keywords": [
-        "lucid blocks steam deck",
-        "lucid blocks 全屏",
-        "lucid blocks 多人模式",
-        "lucid blocks 安卓版"
+        "蜂光森林 黄金蜂蜜",
+        "蜂光森林 养蜂",
+        "蜂光森林 食谱",
+        "蜂光森林 家具"
       ]
     }
   ]
